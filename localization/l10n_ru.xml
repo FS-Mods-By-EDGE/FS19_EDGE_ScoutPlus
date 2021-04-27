@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Точное земледелие"/>
+        <text name="ui_precisionFarming_laboratory" text="Лаборатория"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Лаборатория анализирует образцы почвы: %d"/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Образцов для анализа нет."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Экономический анализ"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Поле %d (%.2f га)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Дополнительное поле (%.2f га)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Значения с последнего сброса"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Итоговые значения"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Показать значения со сброса"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Показать итоговые значения"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Итого"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Сброс"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Образцы почвы:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Известь:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Минеральное удобрение:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Жидкое удобрение:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Навоз:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Навозная жижа:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Семена:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Топливо:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Обслуживание машин:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Компьютерный работник:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Урожай:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Итоговые расходы:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Итоговая прибыль:"/>
+        <text name="ui_precisionFarming_help" text="Справка"/>
+        <text name="ui_precisionFarming_resetYield" text="Очистить карту урожая на поле %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Очистить карту урожая на доп. поле"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="О поле"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Распределение почвы"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Ожидаемый потенциал урожая"/>
+        <text name="precisionFarming_firstStart" text="Установлен мод «Точное земледелие». Он добавляет в Farming Simulator реализма и элементов настоящего земледелия.
+
+В меню помощи появилось несколько новых страниц, объясняющих всё. Открыть их?"/>
+        <text name="precisionFarming_helpHeader" text="Точное земледелие"/>
+        <text name="precisionFarming_helpTitle_01" text="Основы"/>
+        <text name="precisionFarming_helpText_01_part01" text="Мод «Точное земледелие» добавляет в Farming Simulator реализма и элементов настоящего земледелия. Основная тема: разные виды почвы, влияющие на урожай.
+
+Данный мод добавляет обзорную карту с новыми, более детальными сведениями о почве в определённых точках. Новую карту можно открыть на вкладке около мировой карты в меню.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Виды почвы"/>
+        <text name="precisionFarming_helpText_02_part01" text="Данный мод разделяет землю на 4 вида почвы. У каждого вида почвы свои характеристики, влияющие на рост культур и урожай. Таким образом, чтобы получить наибольший урожай с поля, с каждым видом почвы нужно обращаться по-своему."/>
+        <text name="precisionFarming_helpText_02_part02" text="Виды почвы: глинистый песок, супесь, суглинок, илистая глина "/>
+        <text name="precisionFarming_helpTitle_03" text="Образцы почвы"/>
+        <text name="precisionFarming_helpText_03_part01" text="Чтобы узнать, какой вид почвы находится на поле, нужно проанализировать её. Для этого понадобится грунтонос, например, ISARIA SCOUT, имеющийся в магазине. Перемещайтесь по разным точкам поля с грунтоносом. Возьмите несколько образцов почвы, пока всё поле не покраснеет на почвенной карте. Данный цвет показывает, где были взяты пробы."/>
+        <text name="precisionFarming_helpText_03_part02" text="После этого можно отправить образцы в лабораторию на анализ. Через несколько минут результаты появятся на почвенной карте. Также можно посмотреть карту pH и азотную карту."/>
+        <text name="precisionFarming_helpTitle_04" text="Уровень pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Около почвенной карты находится карта pH. Она показывает кислотность или щёлочность почвы. Уровень pH должен всегда быть в оптимальном диапазоне соответственно виду почвы.
+Оптимальные уровни pH:
+  глинистый песок — 6,0
+  супесь — 6,5
+  суглинок — 6,75
+  илистая глина — 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Повысить уровень pH можно, разбрасывая по полю известь. Рекомендуется делать это после каждого третьего урожая. По умолчанию известковая сеялка автоматически меняет дозировку для достижения оптимального уровня pH, но дозировку можно менять и вручную. Если уровень pH не оптимален, урожая будет меньше. В зависимости от вида почвы уровень pH снижается после каждого урожая."/>
+        <text name="precisionFarming_helpTitle_05" text="Уровень азота"/>
+        <text name="precisionFarming_helpText_05_part01" text="Около карты pH находится азотная карта. На ней показан текущий уровень азота в почве. Оптимальный уровень азота зависит от посаженной культуры и вида почвы. Если прийти на поле и посмотреть раздел «О поле», вы увидите текущий и целевой уровень азота в определённой точке."/>
+        <text name="precisionFarming_helpText_05_part02" text="Уровень азота можно повысить с помощью удобрения или навоза. Жижа и навоз повысят уровень азота на определённое значение в зависимости от вида почвы. Рекомендуется делать это до подготовки поля к следующему засеванию. Минеральное и жидкое удобрение автоматически меняет уровень азота до того, что требуется культуре, если она уже посажена. Его нужно разбросать на первых стадиях роста, после посадки культуры. Дозировку всегда можно менять вручную."/>
+        <text name="precisionFarming_helpTitle_06" text="Карта урожая"/>
+        <text name="precisionFarming_helpText_06_part01" text="На карте урожая показан урожай в определённой точке поля. Это пригодится для последующего анализа поля."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Экономический анализ"/>
+        <text name="precisionFarming_helpText_07_part01" text="Чтобы сделать экономический анализ полей, нажимайте на них на странице «Точное земледелие». Откроется окно, где будут указаны расходы, заработки и общий баланс поля."/>
+        <text name="precisionFarming_helpText_07_part02" text="Можно просмотреть общую статистику поля или статистику с момента последнего нажатия кнопки сброса. Так можно отслеживать данные о нескольких урожаях."/>
+        <text name="precisionFarming_helpTitle_08" text="Станция RTK"/>
+        <text name="precisionFarming_helpText_08_part01" text="В магазине появилось 2 новых постройки с RTK-антенной наверху. Такая антенна улучшает GPS-сигнал помощников."/>
+        <text name="precisionFarming_helpText_08_part02" text="Сразу после размещения новой постройки на карте точность помощников повысится, и они станут работать на 11% быстрее."/>
+        <text name="ui_mapOverviewSoilPA" text="Виды почвы"/>
+        <text name="ui_mapOverviewYieldPA" text="Урожай"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Азот"/>
+        <text name="typeDesc_soilSampler" text="Грунтонос"/>
+        <text name="function_soilSampler" text="Грунтонос позволяет брать образцы почвы и получать подробные сведения о поле для организации дальнейшей работы."/>
+        <text name="action_takeSoilSample" text="Взять образец почвы"/>
+        <text name="action_sendSoilSamples" text="Отослать образцы почвы на анализ"/>
+        <text name="info_numSamplesTaken" text="Взято образцов: %d"/>
+        <text name="info_samplesSend" text="Образцы высланы в лабораторию на анализ. Результаты скоро появятся на почвенной карте."/>
+        <text name="info_samplesAnalysed" text="Образцы почвы проанализированы"/>
+        <text name="pa_fieldInfo_soil" text="Почва"/>
+        <text name="pa_fieldInfo_phValue" text="Уровень pH"/>
+        <text name="pa_fieldInfo_nValue" text="Азот"/>
+        <text name="pa_fieldInfo_perfect" text="Идеально"/>
+        <text name="pa_fieldInfo_good" text="Хорошо"/>
+        <text name="pa_fieldInfo_ok" text="Нормально"/>
+        <text name="pa_fieldInfo_bad" text="Плохо"/>
+        <text name="ui_precisionFarming_soilType_1" text="глинистый песок"/>
+        <text name="ui_precisionFarming_soilType_2" text="супесь"/>
+        <text name="ui_precisionFarming_soilType_3" text="суглинок"/>
+        <text name="ui_precisionFarming_soilType_4" text="илистая глина"/>
+        <text name="pa_sampledArea" text="Взят образец почвы"/>
+        <text name="ui_precisionFarming_outdatedData" text="Устаревшие данные"/>
+        <text name="shopItem_rtkStation" text="Здание с базовой станцией RTK"/>
+        <text name="shopItem_garageRtkStation" text="Сарай с базовой станцией RTK"/>
+        <text name="function_rtkStation" text="Данная станция улучшает GPS-сигнал на технике. Это позволяет ИИ-помощникам лучше водить и быстрее работать."/>
+        <text name="hudExtension_headline_ph_lime" text="Уровень pH — применение извести"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Азот — применение минерального удобрения"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Азот — применение жидкого удобрения"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Азот — применение навозной жижи"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Азот — применение навоза"/>
+        <text name="hudExtension_actualValue" text="Сейчас:
+%s"/>
+        <text name="hudExtension_newValue" text="Будет: %s"/>
+        <text name="hudExtension_targetReached" text="Достигнута цель:
+%s"/>
+        <text name="hudExtension_applicationRate" text="Дозировка:"/>
+        <text name="hudExtension_soilType" text="Почва: %s"/>
+        <text name="hudExtension_unknown" text="Неизвестно"/>
+        <text name="hudExtension_automaticShort" text="авто"/>
+        <text name="hudExtension_description_limeAuto" text="Повышение уровня pH до оптимального значения (%s, %s)."/>
+        <text name="hudExtension_description_limeManual" text="Показано оптимальное значение pH (%s, %s)."/>
+        <text name="hudExtension_description_slurryAuto" text="Применение количества жижи соответственно потенциалу почвы (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Применение количества навоза соответственно потенциалу почвы (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Повышение уровня азота до оптимального значения (%s, %s)."/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Урожая не найдено. Для наилучшего результата сначала посейте. Применить количество по умолчанию (%s)."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Показано оптимальное значение (%s, %s)."/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Урожая не найдено. Посейте, чтобы посмотреть рекомендацию удобрения. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Культура не требует дополнительного удобрения."/>
+        <text name="hudExtension_invalidValues" text="Значений пока не найдено"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Включить автоматическую дозировку"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Выключить автоматическую дозировку"/>
+        <text name="action_toggleSprayAmountManual" text="Сменить дозировку"/>
+        <text name="soilStates_replaced" text="См. «Точное земледелие»"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Разбрызгивать больше"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Разбрызгивать меньше"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Вкл./выкл. дозировку авторазбрызгивания"/>
+    </texts>
+</l10n>

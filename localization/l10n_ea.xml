@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Agricultura de precisión"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratorio"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="El laboratorio está analizando %d muestras de suelo."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Actualmente no hay muestras de suelo para analizar."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Análisis económico"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Campo %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Campo adicional (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Valores desde el último restablecimiento"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Valores totales"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Mostrar valores desde el restablecimiento"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Mostrar valores totales"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Total"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Restablecer"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Muestras de suelo:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Cal:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Abono mineral:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Abono líquido:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Estiércol:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Purín:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Semillas:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Combustible:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Mantenimiento vehicular:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Ayudante de IA:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Rendimiento:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Costos totales"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Ganancias Totales"/>
+        <text name="ui_precisionFarming_help" text="Ayuda"/>
+        <text name="ui_precisionFarming_resetYield" text="Borrar mapa de rendimiento en el campo %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Borrar mapa de rendimiento en campo adicional"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Información del campo"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Distribución del suelo"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Potencial de rendimiento esperado"/>
+        <text name="precisionFarming_firstStart" text="Acabas de instalar el mod de agricultura de precisión. Este mod le añade más realismo y aspectos de la agricultura real a Farming Simulator.
+Añadimos varias páginas nuevas al menú Ayuda para explicar todo. ¿Quieres abrirlas ahora?"/>
+        <text name="precisionFarming_helpHeader" text="Agricultura de precisión"/>
+        <text name="precisionFarming_helpTitle_01" text="General"/>
+        <text name="precisionFarming_helpText_01_part01" text="Este mod de agricultura de precisión le añade más realismo y aspectos de la agricultura real a Farming Simulator. El enfoque principal se centra en los diferentes tipos de suelo, los cuales influyen en el crecimiento de los cultivos.
+
+El mod añade un mapa general que brinda información nueva y más detallada sobre el suelo en puntos específicos del mapa. Puedes acceder a este mapa en la pestaña junto al mapa del mundo en el menú.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Tipos de suelo"/>
+        <text name="precisionFarming_helpText_02_part01" text="Este mod divide el suelo en cuatro tipos. Cada uno de los tipos de suelo tiene su propia característica que influye en el crecimiento de los cultivos y, en última instancia, en la cantidad de rendimiento. Por lo tanto, cada tipo de suelo necesita un tratamiento especial para obtener el máximo rendimiento del campo."/>
+        <text name="precisionFarming_helpText_02_part02" text="Tipos de suelo:
+- Arena arcillosa
+- Franco arenoso
+- Marga
+- Arcilla limosa "/>
+        <text name="precisionFarming_helpTitle_03" text="Muestreo de suelo"/>
+        <text name="precisionFarming_helpText_03_part01" text="Para determinar qué tipo de suelo se encuentra en algún lugar del campo, primero debes analizar el suelo. Esto se puede hacer con un dispositivo de muestreo de suelo, como el ISARIA SCOUT, que está disponible en la tienda. Conduce a varios puntos en el campo con el dispositivo de muestreo de suelo. Toma numerosas muestras de suelo hasta que el campo esté completamente cubierto de rojo oscuro en el mapa de suelos. Este color indica los lugares donde ya se tomaron muestras."/>
+        <text name="precisionFarming_helpText_03_part02" text="Después de eso, puedes enviar las muestras de suelo al laboratorio para su análisis. Unos minutos más tarde verás los resultados en el mapa de suelos. Además, ahora también puedes ver el mapa de pH y nitrógeno."/>
+        <text name="precisionFarming_helpTitle_04" text="Valor de pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Junto al mapa de suelos se encuentra el mapa de valores de pH. Esto indica la acidez o basicidad del suelo. El valor de pH siempre debe estar en el rango objetivo óptimo según el tipo de suelo.
+
+Valores de pH objetivo por tipo de suelo:
+- Arena arcillosa: 6.0
+- Franco arenoso: 6.5
+- Marga: 6.75
+- Arcilla limosa: 7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Para aumentar el valor del pH, puedes esparcir cal en el campo. Se recomienda hacer esto cada tercera cosecha. De forma predeterminada, el esparcidor de cal ajusta automáticamente la tasa de aplicación a la necesaria para alcanzar el nivel de pH óptimo, pero también hay una opción para controlarlo manualmente. El rendimiento disminuye si el valor del pH no está en el nivel óptimo. Según el tipo de suelo, el nivel de pH disminuye después de cada cosecha."/>
+        <text name="precisionFarming_helpTitle_05" text="Valor de nitrógeno"/>
+        <text name="precisionFarming_helpText_05_part01" text="Junto al mapa de pH se encuentra el mapa de nitrógeno. Esto indica el nivel actual de nitrógeno en el suelo. El nivel óptimo de nitrógeno depende del cultivo plantado y del tipo de suelo. Al caminar por el campo y observar la «Pantalla de información del campo», puedes ver los niveles de nitrógeno actuales y objetivo de un punto específico en el campo."/>
+        <text name="precisionFarming_helpText_05_part02" text="Para aumentar el nivel de nitrógeno, puedes aplicar abono o estiércol. El purín o el estiércol aumentan el nivel de nitrógeno en un valor fijo según el tipo de suelo. Se recomienda hacer esto antes de preparar el campo para la próxima siembra. El abono mineral y líquido ajusta el nivel de nitrógeno de forma automática según los requisitos del cultivo si este ya está plantado. Esto debe hacerse dentro de los primeros estados de crecimiento, después de sembrar el cultivo. Siempre es posible controlar la velocidad de aplicación manualmente."/>
+        <text name="precisionFarming_helpTitle_06" text="Mapa de rendimiento"/>
+        <text name="precisionFarming_helpText_06_part01" text="En el mapa de rendimiento puedes ver el rendimiento en puntos específicos del campo. Puedes usar esto para analizar el campo posteriormente."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Análisis económico"/>
+        <text name="precisionFarming_helpText_07_part01" text="Para obtener un análisis económico de los campos, puedes hacer clic en cada campo en la página «Agricultura de precisión». Esto abre una ventana que enumera los costos, las ganancias y el saldo total del campo."/>
+        <text name="precisionFarming_helpText_07_part02" text="Puedes ver los valores totales del campo o tener una estadística desde la última vez que se pulsó el botón de restablecer. Esto te brinda la posibilidad de realizar un seguimiento de los datos a lo largo de varias cosechas."/>
+        <text name="precisionFarming_helpTitle_08" text="Estación RTK"/>
+        <text name="precisionFarming_helpText_08_part01" text="Hay dos nuevos edificios disponibles en la tienda que tienen una antena RTK en la parte superior. Esta antena les proporciona una mejor señal GPS a los ayudantes."/>
+        <text name="precisionFarming_helpText_08_part02" text="Los ayudantes aumentan su precisión y trabajan hasta un 11 % más rápido que antes siempre y cuando uno de los nuevos edificios se coloque en el mapa."/>
+        <text name="ui_mapOverviewSoilPA" text="Tipos de suelo"/>
+        <text name="ui_mapOverviewYieldPA" text="Rendimiento"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Nitrógeno"/>
+        <text name="typeDesc_soilSampler" text="unidad de muestreo de suelo"/>
+        <text name="function_soilSampler" text="Una unidad de muestreo de suelo te permite tomar muestras del suelo para tener información más detallada sobre un campo para futuros pasos de trabajo."/>
+        <text name="action_takeSoilSample" text="Tomar muestra de suelo"/>
+        <text name="action_sendSoilSamples" text="Enviar muestras de suelo para su análisis"/>
+        <text name="info_numSamplesTaken" text="Muestras de suelo tomadas: %d"/>
+        <text name="info_samplesSend" text="Las muestras de suelo ahora se envían a un laboratorio para su análisis. Pronto verás los resultados en el mapa de tipos de suelo."/>
+        <text name="info_samplesAnalysed" text="Muestras de suelo analizadas"/>
+        <text name="pa_fieldInfo_soil" text="Suelo"/>
+        <text name="pa_fieldInfo_phValue" text="Valor de pH"/>
+        <text name="pa_fieldInfo_nValue" text="Nitrógeno"/>
+        <text name="pa_fieldInfo_perfect" text="Perfecto"/>
+        <text name="pa_fieldInfo_good" text="Bien"/>
+        <text name="pa_fieldInfo_ok" text="Aceptable"/>
+        <text name="pa_fieldInfo_bad" text="Mal"/>
+        <text name="ui_precisionFarming_soilType_1" text="Arena arcillosa"/>
+        <text name="ui_precisionFarming_soilType_2" text="Franco arenoso"/>
+        <text name="ui_precisionFarming_soilType_3" text="Marga"/>
+        <text name="ui_precisionFarming_soilType_4" text="Arcilla limosa"/>
+        <text name="pa_sampledArea" text="Muestra de suelo tomada"/>
+        <text name="ui_precisionFarming_outdatedData" text="Datos desactualizados"/>
+        <text name="shopItem_rtkStation" text="Edificio con estación base RTK"/>
+        <text name="shopItem_garageRtkStation" text="Cobertizo con estación base RTK"/>
+        <text name="function_rtkStation" text="Esta estación mejora la señal de GPS de tus vehículos. Esto permite que tus ayudantes de IA conduzcan con mayor precisión y hagan su trabajo más rápido."/>
+        <text name="hudExtension_headline_ph_lime" text="Valor de pH - Aplicación de cal"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Nitrógeno - Aplicación de abono mineral"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Nitrógeno - Aplicación de abono líquido"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Nitrógeno - Aplicación de purín"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Nitrógeno - Aplicación de estiércol"/>
+        <text name="hudExtension_actualValue" text="Actual
+%s"/>
+        <text name="hudExtension_newValue" text="Nuevo: %s"/>
+        <text name="hudExtension_targetReached" text="Objetivo alcanzado
+%s"/>
+        <text name="hudExtension_applicationRate" text="Tasa de aplicación:"/>
+        <text name="hudExtension_soilType" text="Suelo: %s"/>
+        <text name="hudExtension_unknown" text="Desconocido"/>
+        <text name="hudExtension_automaticShort" text="auto."/>
+        <text name="hudExtension_description_limeAuto" text="Aumentando el pH al valor óptimo para «%s» (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Mostrando el valor de pH óptimo para «%s» (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Aplicando cantidad de purín según el potencial de rendimiento del suelo (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Aplicando cantidad de estiércol según el potencial de rendimiento del suelo (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Aumentando el nivel de nitrógeno al valor óptimo para «%s» en «%s»"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="No se detectó ningún cultivo. Primero siembra para obtener un mejor resultado. Aplica el valor predeterminado para «%s»."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Mostrando el valor óptimo para «%s» en «%s»"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="No se detectó ningún cultivo. Primero siembra para ver la recomendación de abono. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="El cultivo no requiere abono adicional."/>
+        <text name="hudExtension_invalidValues" text="Aún no se han detectado valores"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Activar la tasa de aplicación automática"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Desactivar la tasa de aplicación automática"/>
+        <text name="action_toggleSprayAmountManual" text="Cambiar la tasa de aplicación"/>
+        <text name="soilStates_replaced" text="Ver agricultura de precisión"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Aumentar la cantidad de pulverización"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Disminuir la cantidad de pulverización"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Activar/desactivar la cantidad de pulverización automática"/>
+    </texts>
+</l10n>

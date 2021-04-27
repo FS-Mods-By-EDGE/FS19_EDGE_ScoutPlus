@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Precíziós növénytermesztés"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratórium"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="A laboratórium %d talajmintát elemez."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Nincs elemezhető talajminta."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Gazdasági elemzés"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="%d terület (%.2f hektár)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="További terület (%.2f hektár)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Értékek a legutóbbi visszaállítást követően"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Összes érték"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="A legutóbbi visszaállítást követő értékek megjelenítése"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Az összes érték megjelenítése"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Összesen"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Visszaállítás"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Talajminták:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Mész:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Ásványi műtrágya:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Folyékony műtrágya:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Trágya:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Hígtrágya:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Magok:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Üzemanyag:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Járműkarbantartás:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Gépi segítő:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Hozam:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Teljes költség"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Teljes bevétel"/>
+        <text name="ui_precisionFarming_help" text="Súgó"/>
+        <text name="ui_precisionFarming_resetYield" text="Hozamtérkép törlése a következő területen: %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Hozamtérkép törlése egy további területen"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Területinformáció"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Talajeloszlás"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Várt hozampotenciál"/>
+        <text name="precisionFarming_firstStart" text="Telepítetted a Precíziós növénytermesztés modot. Ez a mod több realizmussal és valósághű növénytermesztési lehetőségekkel látja el a Farming Simulator játékot.
+
+Néhány új oldalt adtunk hozzá a Súgó menühöz, hogy mindent elmagyarázzunk. Meg szeretnéd nyitni ezeket most?"/>
+        <text name="precisionFarming_helpHeader" text="Precíziós növénytermesztés"/>
+        <text name="precisionFarming_helpTitle_01" text="Általános"/>
+        <text name="precisionFarming_helpText_01_part01" text="A Precíziós növénytermesztés mod több realizmussal és valósághű növénytermesztési lehetőségekkel látja el a Farming Simulator játékot. A fő hangsúly a különböző talajtípusokon van, amelyek befolyásolják a termények növekedését.
+
+A mod egy áttekintő térképpel is rendelkezik, amely új, részletesebb információkkal szolgál a talajról a térkép egyes pontjain. Ez a térkép a menüben található világtérkép melletti lapot keresztül érhető el.
+
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Talajtípusok"/>
+        <text name="precisionFarming_helpText_02_part01" text="Ez a mod négyféle talajtípusra osztja a talajt. Minden talajtípusnak megvan a maga jellemzője, amely befolyásolja a termények növekedését és végső soron a hozam mennyiségét. Ezért minden talajtípusnak különleges kezelésre van szüksége a maximális hozam elérése érdekében."/>
+        <text name="precisionFarming_helpText_02_part02" text="Talajtípusok:
+- Agyagos homok
+– Homokos vályog
+– Vályog
+– Iszapos agyag "/>
+        <text name="precisionFarming_helpTitle_03" text="Talajminták vétele"/>
+        <text name="precisionFarming_helpText_03_part01" text="A talaj típusának meghatározásához először elemezned kell a talajt. Ez megtehető egy talajmintavevő eszközzel, például az ISARIA SCOUT-tal, amely a boltban megvásárolható. A talajmintavevő eszközzel keresd fel a terület több pontját. Vegyél számos talajmintát, amíg a terület teljesen sötétvörösre nem vált a talajtérképen. Ez a szín jelzi, hol vettél már mintát."/>
+        <text name="precisionFarming_helpText_03_part02" text="Ezt követően elküldheted a talajmintákat a laboratóriumba elemzés céljából. Néhány perccel később láthatod az eredményeket a talajtérképen. Ezenkívül láthatod a pH-érték- és a nitrogéntérképet is."/>
+        <text name="precisionFarming_helpTitle_04" text="pH-érték"/>
+        <text name="precisionFarming_helpText_04_part01" text="A talajtérkép mellett található a pH-érték-térkép. Ez a talaj savasságát vagy lúgosságát jelzi. A pH-értéknek a talajtípustól függően mindig az optimális céltartományban kell lennie.
+
+pH-célértékek talajtípusonként:
+– Agyagos homok: 6,0
+– Homokos vályog: 6,5
+– Vályog: 6,75
+– Iszapos agyag: 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="A pH-érték a terület meszezésével növelhető. Ez minden harmadik betakarításkor ajánlott. Alapértelmezés szerint a mészszóró automatikusan beállítja a kijuttatási mennyiséget az optimális pH-célszint eléréséhez szükséges mennyiséghez, de van lehetőség manuális vezérlésre is. Ha a pH-érték nem az optimális szinten van, akkor csökken a hozam. A talajtípustól függően a pH-érték minden betakarítást követően csökken."/>
+        <text name="precisionFarming_helpTitle_05" text="Nitrogénérték"/>
+        <text name="precisionFarming_helpText_05_part01" text="A pH-térkép mellett található a nitrogéntérkép. Ez a talajban lévő nitrogén jelenlegi szintjét jelzi. Az optimális nitrogénszint az ültetett terménytől és a talajtípustól függ. A területen a „Területinformációs kijelzőn” láthatod terület egy adott pontjának jelenlegi és célzott nitrogénszintjét."/>
+        <text name="precisionFarming_helpText_05_part02" text="A nitrogénszint műtrágya vagy trágya alkalmazásával növelhető. A hígtrágya vagy a trágya a talajtípustól függően rögzített értékkel növeli a nitrogénszintet. Ezt ajánlott megtenni, mielőtt előkészítenéd a területet a következő vetéshez. Az ásványi és folyékony műtrágya a nitrogénszintet automatikusan a terményigényhez igazítja, ha a terményt már elültették. Ezt az első növekedési állapotokon belül kell elvégezni, a termény vetését követően. Az alkalmazási mennyiséget mindig manuálisan lehet szabályozni."/>
+        <text name="precisionFarming_helpTitle_06" text="Hozamtérkép"/>
+        <text name="precisionFarming_helpText_06_part01" text="A hozamtérképen láthatod a terület bizonyos pontjainak hozamát. Ez felhasználható a terület utólagos elemzésére."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Gazdasági elemzés"/>
+        <text name="precisionFarming_helpText_07_part01" text="Az egyes területek gazdasági elemzéséhez kattints a „Precíziós növénytermesztés” oldalon az egyes területekre. Ez megnyit egy ablakot, amely felsorolja a terület költségeit, bevételeit és teljes egyenlegét."/>
+        <text name="precisionFarming_helpText_07_part02" text="Vagy megtekintheted a terület teljes értékét, vagy a statisztikáit a visszaállítás gomb legutóbbi megnyomása óta. Ez lehetővé teszi az adatok nyomon követését több betakarítás során."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK-állomás"/>
+        <text name="precisionFarming_helpText_08_part01" text="Az boltban két új épület áll rendelkezésre, amelyek tetején RTK-antenna található. Ez az antenna jobb GPS-jelet biztosít a segítők számára."/>
+        <text name="precisionFarming_helpText_08_part02" text="Mihelyst az egyik új épület felkerül a térképre, a segítők pontossága megnő, és akár 11%-kal gyorsabban dolgoznak, mint korábban."/>
+        <text name="ui_mapOverviewSoilPA" text="Talajtípusok"/>
+        <text name="ui_mapOverviewYieldPA" text="Hozam"/>
+        <text name="ui_mapOverviewPHPA" text="pH-érték"/>
+        <text name="ui_mapOverviewNitrogen" text="Nitrogén"/>
+        <text name="typeDesc_soilSampler" text="talajmintavevő egység"/>
+        <text name="function_soilSampler" text="A talajmintavevő egységgel talajmintákat vehetsz, hogy a jövőbeli megmunkáláshoz részletesebb ismereteket szerezz egy területről."/>
+        <text name="action_takeSoilSample" text="Vegyél egy talajmintát"/>
+        <text name="action_sendSoilSamples" text="Küldd el a talajmintát elemzésre"/>
+        <text name="info_numSamplesTaken" text="Vett talajminták száma: %d"/>
+        <text name="info_samplesSend" text="Elküldted a talajmintákat a laboratóriumba elemzésre. Hamarosan láthatod az eredményeket a talajtérképen."/>
+        <text name="info_samplesAnalysed" text="Elemzett talajminták"/>
+        <text name="pa_fieldInfo_soil" text="Talaj"/>
+        <text name="pa_fieldInfo_phValue" text="pH-érték"/>
+        <text name="pa_fieldInfo_nValue" text="Nitrogén"/>
+        <text name="pa_fieldInfo_perfect" text="Tökéletes"/>
+        <text name="pa_fieldInfo_good" text="Remek"/>
+        <text name="pa_fieldInfo_ok" text="Jó"/>
+        <text name="pa_fieldInfo_bad" text="Rossz"/>
+        <text name="ui_precisionFarming_soilType_1" text="Agyagos homok"/>
+        <text name="ui_precisionFarming_soilType_2" text="Homokos vályog"/>
+        <text name="ui_precisionFarming_soilType_3" text="Vályog"/>
+        <text name="ui_precisionFarming_soilType_4" text="Iszapos agyag"/>
+        <text name="pa_sampledArea" text="Vett talajminta"/>
+        <text name="ui_precisionFarming_outdatedData" text="Elavult adat"/>
+        <text name="shopItem_rtkStation" text="Épület RTK-állomással"/>
+        <text name="shopItem_garageRtkStation" text="Fészer RTK-állomással"/>
+        <text name="function_rtkStation" text="Ez az állomás jobb GPS-jelet biztosít a járműveidnek. Ennek segítségével a gépi segítők pontosabban eljutnak a célpontjukra és gyorsabban végzik el a feladataikat."/>
+        <text name="hudExtension_headline_ph_lime" text="pH-érték – Mész használata"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Nitrogén – Ásványi műtrágya használata"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Nitrogén – Folyékony műtrágya használata"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Nitrogén – Hígtrágya használata"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Nitrogén – Trágya használata"/>
+        <text name="hudExtension_actualValue" text="Jelenlegi
+%s"/>
+        <text name="hudExtension_newValue" text="Új: %s"/>
+        <text name="hudExtension_targetReached" text="Célpont elérve
+%s"/>
+        <text name="hudExtension_applicationRate" text="Alkalmazási arány:"/>
+        <text name="hudExtension_soilType" text="Talaj: %s"/>
+        <text name="hudExtension_unknown" text="Ismeretlen"/>
+        <text name="hudExtension_automaticShort" text="automatikus"/>
+        <text name="hudExtension_description_limeAuto" text="Növeld a pH-értéket optimális értékre: „%s” (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Optimális pH-érték megjelenítése: „%s” (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Hígtrágya mennyisége a talaj hozampotenciáljától függően (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Trágya mennyisége a talaj hozampotenciáljától függően (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Növeld a nitrogénértéket optimális értékre: „%s” – „%s”"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Nem található termény. A legjobb eredmények érdekében először vess. Alapértelmezett érték alkalmazása a következőhöz: „%s”."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Optimális érték megjelenítése a következőhöz: „%s” – „%s”"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Nem található termény. A trágyázási ajánlás megtekintéséhez először vess. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="A terményhez nincs szükség további műtrágyára."/>
+        <text name="hudExtension_invalidValues" text="Nincsenek értékek"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Automatikus alkalmazási arány aktiválása"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Automatikus alkalmazási arány deaktiválása"/>
+        <text name="action_toggleSprayAmountManual" text="Alkalmazási arány módosítása"/>
+        <text name="soilStates_replaced" text="Precíziós növénytermesztés megtekintése"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Permetezési mennyiség növelése"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Permetezési mennyiség csökkentése"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Automatikus permetezési mennyiség bekapcsolása"/>
+    </texts>
+</l10n>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="정밀 농사"/>
+        <text name="ui_precisionFarming_laboratory" text="실험실"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="실험실에서 %d개의 토양 샘플을 분석 중입니다."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="현재 분석할 토양 샘플이 없습니다."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="경제 분석"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="경작지 %d (%.2fha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="추가 경작지 (%.2fha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="마지막 재설정 이후 수치"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="총 수치"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="재설정 이후 수치 표시"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="총 수치 표시"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="합계"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="재설정"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="토양 샘플:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="석회:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="광물 비료:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="액체 비료:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="거름:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="슬러리:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="씨앗:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="연료:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="차량 유지관리:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="AI 일꾼:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="수확:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="총 비용"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="총 수익"/>
+        <text name="ui_precisionFarming_help" text="도움말"/>
+        <text name="ui_precisionFarming_resetYield" text="경작지 %d의 수확 지도 초기화"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="추가 경작지의 수확 지도 초기화"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="경작지 정보"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="토양 분포"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="예상 수확 잠재력"/>
+        <text name="precisionFarming_firstStart" text="정밀 농사 모드를 설치하셨습니다. 이 모드는 Farming Simulator에 실제 농사의 더 현실적인 모습을 추가합니다.
+
+모든 것을 설명해 드리기 위해 도움말 메뉴에 몇몇 새로운 페이지를 추가했습니다. 지금 열어보시겠습니까?"/>
+        <text name="precisionFarming_helpHeader" text="정밀 농사"/>
+        <text name="precisionFarming_helpTitle_01" text="일반"/>
+        <text name="precisionFarming_helpText_01_part01" text="정밀 농사 모드는 Farming Simulator에 실제 농사의 더 현실적인 모습을 추가합니다. 작물의 성장에 영향을 주는 여러 토양 유형을 주로 다뤘습니다.
+
+모드는 지도의 특정 지점의 토양에 대한 새롭고 상세한 정보와 관련된 개요 지도를 추가합니다. 이 지도는 메뉴의 월드맵 옆에 있는 탭에서 확인할 수 있습니다. "/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="토양 유형"/>
+        <text name="precisionFarming_helpText_02_part01" text="이 모드는 땅을 네 개 유형의 토양으로 구분합니다. 각 개별 토양 유형에는 농작물 성장에 영향을 주고 결국에는 수확량에도 영향을 주는 각각의 특성이 있습니다. 따라서, 모든 토양 유형에는 경작지에서 최대 수확을 얻기 위한 특별한 처치가 필요합니다."/>
+        <text name="precisionFarming_helpText_02_part02" text="토양 유형:
+- 양질 사토
+- 사양토
+- 양질토
+- 미사질 점토 "/>
+        <text name="precisionFarming_helpTitle_03" text="토양 샘플링"/>
+        <text name="precisionFarming_helpText_03_part01" text="경작지에 어떤 토양 유형이 있는지 확인하려면 먼저 토양을 분석해야 합니다. 이 작업은 상점에서 구매할 수 있는 ISARIA SCOUNT와 같은 토양 샘플링 장치로 수행할 수 있습니다. 토양 샘플링 장치를 사용하여 경작지의 여러 지점으로 운전합니다. 경작지가 토양 지도에서 완전히 검붉게 덮일 때까지 많은 토양 샘플을 채취합니다. 이 색상은 샘플이 이미 채취된 위치를 나타냅니다."/>
+        <text name="precisionFarming_helpText_03_part02" text="그런 다음 토양 샘플을 분석하기 위해 실험실로 보낼 수 있습니다. 몇 분 후에 토양 지도에서 결과를 볼 수 있게 됩니다. 또한, 이제 pH 및 질소 지도도 볼 수 있습니다."/>
+        <text name="precisionFarming_helpTitle_04" text="pH 수치"/>
+        <text name="precisionFarming_helpText_04_part01" text="토양 지도 옆에서 pH 수치 지도를 확인할 수 있습니다. 이는 토양의 산성도나 염기성도를 나타냅니다. pH 수치는 토양 유형에 따라 항상 최적 목표 범위에 있어야 합니다.
+
+토양 유형당 목표 pH 수치:
+- 양질 사토: 6.0
+- 사양토: 6.5
+- 양질토: 6.75
+- 미사질 점토: 7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="경작지에 석회를 뿌리면 pH 수치가 올라갈 수 있습니다. 이는 세 번째 수확마다 권장됩니다. 기본적으로 석회 살포기는 최적의 pH 목표 수준에 도달하는 데 필요한 속도로 살포량을 자동으로 조정하지만 수동으로 제어할 수도 있습니다. pH 수치가 최적 수준이 아닌 경우 수확량이 감소합니다. 토양 유형에 따라, pH 레벨이 수확 후에 감소합니다."/>
+        <text name="precisionFarming_helpTitle_05" text="질소 수치"/>
+        <text name="precisionFarming_helpText_05_part01" text="PH 지도 옆에서 질도 지도를 확인할 수 있습니다. 이는 땅의 현재 질소 수준을 표시합니다. 최적의 질소 수준은 심은 농작물과 토양 유형에 따라 달라집니다. 경작지를 걷고 '경작지 정보 디스플레이'를 보면, 해당 경작지에 대한 특정 지점의 현재 및 목표 질소 수준을 확인할 수 있습니다."/>
+        <text name="precisionFarming_helpText_05_part02" text="비료나 거름을 사용하면 질소 수준을 높일 수 있습니다. 슬러리 또는 거름은 토양 유형에 따라 질소 수준을 일정하게 증가시킵니다. 다음 씨 뿌리기를 위해 경작지를 준비하기 전에 하는 것이 좋습니다. 광물 및 액체 비료는 농작물이 이미 심어진 경우 농작물에 필요한 만큼 질소 수준을 자동으로 조정합니다. 이는 농작물의 씨를 뿌린 후에 첫 번째 성장 상태 내에서 이뤄져야 합니다. 언제든지 살포량을 수동으로 조정할 수 있습니다."/>
+        <text name="precisionFarming_helpTitle_06" text="수확 지도"/>
+        <text name="precisionFarming_helpText_06_part01" text="수확 지도에서 해당 경작지의 특정 지점의 수확을 볼 수 있습니다. 이는 나중에 경작지 분석에 사용될 수 있습니다."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="경제 분석"/>
+        <text name="precisionFarming_helpText_07_part01" text="각 경작지의 경제 분석을 확인하려면 '정밀 농사' 페이지에서 각 경작지를 클릭합니다. 그러면 비용, 수익 및 경작지의 총 잔액을 목록으로 보여주는 창이 열립니다."/>
+        <text name="precisionFarming_helpText_07_part02" text="경작지의 총 수치를 보거나 마지막으로 재설정 버튼이 눌린 이후의 통계를 볼 수 있습니다. 여러 수확에 대한 데이터를 추적할 수 있게 됩니다."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK 스테이션"/>
+        <text name="precisionFarming_helpText_08_part01" text="상부에 RTK 안테나가 있는 상점에서 새로운 건물 두 개를 이용할 수 있습니다. 이 안테나는 일꾼들에게 더 정확한 GPS 신호를 제공합니다."/>
+        <text name="precisionFarming_helpText_08_part02" text="새로운 건물 중 하나가 지도에 배치된 순간부터 일꾼들의 정확성이 증가하며 전보다 11% 더 빠르게 작업을 처리합니다."/>
+        <text name="ui_mapOverviewSoilPA" text="토양 유형"/>
+        <text name="ui_mapOverviewYieldPA" text="수확"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="질소"/>
+        <text name="typeDesc_soilSampler" text="토양 샘플링 유닛"/>
+        <text name="function_soilSampler" text="토양 샘플링 유닛을 사용하여 토양 샘플을 채취하고 향후 작업 단계를 위해 경작지에 대한 자세한 정보를 얻을 수 있습니다."/>
+        <text name="action_takeSoilSample" text="토양 샘플 채취"/>
+        <text name="action_sendSoilSamples" text="분석을 위해 토양 샘플 보내기"/>
+        <text name="info_numSamplesTaken" text="채취한 토양 샘플: %d"/>
+        <text name="info_samplesSend" text="이제 토양 샘플이 실험실로 보내져서 분석됩니다. 잠시 후에 토양 유형 지도에서 결과를 볼 수 있습니다."/>
+        <text name="info_samplesAnalysed" text="토양 샘플 분석 완료"/>
+        <text name="pa_fieldInfo_soil" text="토양"/>
+        <text name="pa_fieldInfo_phValue" text="pH 수치"/>
+        <text name="pa_fieldInfo_nValue" text="질소"/>
+        <text name="pa_fieldInfo_perfect" text="완벽함"/>
+        <text name="pa_fieldInfo_good" text="좋음"/>
+        <text name="pa_fieldInfo_ok" text="괜찮음"/>
+        <text name="pa_fieldInfo_bad" text="나쁨"/>
+        <text name="ui_precisionFarming_soilType_1" text="양질 사토"/>
+        <text name="ui_precisionFarming_soilType_2" text="사양토"/>
+        <text name="ui_precisionFarming_soilType_3" text="양질토"/>
+        <text name="ui_precisionFarming_soilType_4" text="미사질 점토"/>
+        <text name="pa_sampledArea" text="토양 샘플 채취됨"/>
+        <text name="ui_precisionFarming_outdatedData" text="오래된 데이터"/>
+        <text name="shopItem_rtkStation" text="RTK 기본 스테이션 포함 건물"/>
+        <text name="shopItem_garageRtkStation" text="RTK 기본 스테이션 포함 헛간"/>
+        <text name="function_rtkStation" text="이 스테이션은 더 나은 GPS 신호를 받는 차량을 제공합니다. AI 일꾼이 더 정확하게 주행하고 작업을 빠르게 끝내는 데 도움을 줍니다."/>
+        <text name="hudExtension_headline_ph_lime" text="pH 수치 - 석회 살포"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="질소 - 광물 비료 살포"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="질소 - 액체 비료 살포"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="질소 - 슬러리 살포"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="질소 - 거름 살포"/>
+        <text name="hudExtension_actualValue" text="현재
+%s"/>
+        <text name="hudExtension_newValue" text="신규: %s"/>
+        <text name="hudExtension_targetReached" text="목표 도달
+%s"/>
+        <text name="hudExtension_applicationRate" text="살포량:"/>
+        <text name="hudExtension_soilType" text="토양: %s"/>
+        <text name="hudExtension_unknown" text="알 수 없음"/>
+        <text name="hudExtension_automaticShort" text="자동"/>
+        <text name="hudExtension_description_limeAuto" text="%s' (%s)에 대한 최적 수치로 pH 증가 중"/>
+        <text name="hudExtension_description_limeManual" text="%s' (%s)에 대한 최적 pH 수치 표시 중"/>
+        <text name="hudExtension_description_slurryAuto" text="토양 수확 잠재력에 따른 슬러리 수량 적용 중(%s)"/>
+        <text name="hudExtension_description_manureAuto" text="토양 수확 잠재력에 따른 거름 수량 적용 중(%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="%s'에 대한 '%s'에서의 최적 수치로 질소 수준 증가 중"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="감지된 농작물 없음. 최고의 결과를 위해 먼저 씨를 뿌리세요. '%s'에 대한 기본 수치를 적용합니다."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="%s'에 대한 '%s'에서의 최적 수치 표시 중"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="감지된 농작물 없음. 비료 추천을 보려면 먼저 씨를 뿌리세요. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="농작물에는 추가 비료가 필요하지 않습니다. "/>
+        <text name="hudExtension_invalidValues" text="아직 감지된 수치 없음"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="자동 살포량 활성화"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="자동 살포량 비활성화"/>
+        <text name="action_toggleSprayAmountManual" text="살포량 변경"/>
+        <text name="soilStates_replaced" text="정밀 농사 보기"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="살포 수량 증가"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="살포 수량 감소"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="자동 살포 수량 토글"/>
+    </texts>
+</l10n>

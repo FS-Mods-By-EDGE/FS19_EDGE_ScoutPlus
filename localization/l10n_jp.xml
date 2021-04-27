@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="精密農業"/>
+        <text name="ui_precisionFarming_laboratory" text="研究所"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="研究所は%d土壌サンプルを分析中です。"/>
+        <text name="ui_precisionFarming_laboratory_idle" text="分析する土壌サンプルは現在ありません。"/>
+        <text name="ui_precisionFarming_economicAnalysis" text="経済分析"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="畑%d（%.2fヘクタール）"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="追加の畑（%.2fヘクタール）"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="最後のリセット以降の値"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="合計値"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="リセット以降の値を表示"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="合計値を表示"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="合計"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="リセット"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="土壌サンプル："/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="石灰："/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="ミネラル肥料："/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="液体肥料："/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="堆肥："/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="スラリー："/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="種："/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="燃料"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="車両メンテナンス："/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="AIヘルパー："/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="収穫高："/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="総費用"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="総収益"/>
+        <text name="ui_precisionFarming_help" text="ヘルプ"/>
+        <text name="ui_precisionFarming_resetYield" text="畑%dでの収穫高マップをクリア"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="別の畑での収穫高マップをクリア"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="畑の情報"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="土壌分布"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="期待される収穫高の可能性"/>
+        <text name="precisionFarming_firstStart" text="精密農業MODをインストールしました。このMODにより、Farming Simulatorにさらに実際に近い農業のリアリズムと要素が追加されます。
+説明はすべて、ヘルプメニューに追加した新しいページに記載されています。
+今、開きますか？"/>
+        <text name="precisionFarming_helpHeader" text="精密農業"/>
+        <text name="precisionFarming_helpTitle_01" text="一般"/>
+        <text name="precisionFarming_helpText_01_part01" text="この精密農業MODにより、Farming Simulatorにリアリズムとさらに実際に近い農業の要素が追加されます。
+作物の成長に影響を与えるさまざまな土壌タイプに主な焦点を置きました。
+このMODでは、マップ上の特定の場所の土壌に関して、新しく、より詳細な情報専用の概要マップを追加されています。
+この地図にはメニューの世界地図の横にあるタブからアクセスできます。 "/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="土壌タイプ"/>
+        <text name="precisionFarming_helpText_02_part01" text="このMODは、地面を4タイプの土壌に分割します。
+各土壌タイプにはそれぞれ独自の特性があり、それが作物の成長、そして最終的には収穫高に影響を与えます。
+なので、どの土壌タイプにおいても、畑から最大の収穫高を得るためには特別な処理が必要です。"/>
+        <text name="precisionFarming_helpText_02_part02" text="土壌タイプ：- 壌質砂土 -  砂壌土 - 壌土 - シルト質粘土 "/>
+        <text name="precisionFarming_helpTitle_03" text="土壌サンプリング"/>
+        <text name="precisionFarming_helpText_03_part01" text="どの土壌タイプが畑のどこにあるかを判断するには、
+最初に土壌を分析する必要があります。
+これは、ショップで入手できるイサリアスカウトなどの土壌サンプリング装置を使って行うことができます。
+土壌サンプリング装置を畑の複数の場所へ持って行きます。
+土壌マップで畑が完全に暗赤色になるまで、多数の土壌サンプルを採取します。
+この色は、サンプルがすでに採取されている場所を示します。"/>
+        <text name="precisionFarming_helpText_03_part02" text="その後、土壌サンプルを研究所に送り、分析を行うことができます。
+数分後、土壌マップに結果が表示されます。
+さらに、pHと窒素のマップも表示できるようになりました。"/>
+        <text name="precisionFarming_helpTitle_04" text="pH値"/>
+        <text name="precisionFarming_helpText_04_part01" text="pH値マップは土壌マップの隣にあります。
+これは、土壌が酸性か塩基性かを示します。
+pH値は、土壌タイプに応じて常に最適な目標範囲内に維持する必要があります。
+土壌タイプごとの目標pH値：
+- 壌質砂土：6.0
+- 砂壌土：6.5
+- 壌土：6.75
+- シルト質粘土：7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="畑に石灰を適用することにより、
+pH値を上げることができます。
+これは収穫3回ごとに行うことが推奨されています。
+デフォルトでは、石灰散布機は最適なpH目標レベルに到達させるために必要な速度に、
+適用速度が自動的に調整されますが、手動で制御することもできます。
+pH値が最適レベルにないと、収穫高は減少します。
+土壌タイプによっては、収穫のたびにpHレベルが下がります。"/>
+        <text name="precisionFarming_helpTitle_05" text="窒素値"/>
+        <text name="precisionFarming_helpText_05_part01" text="窒素マップはpH値マップの隣にあります。
+土壌の窒素の現在レベルを示しています。窒素の最適レベルは、植えられた作物と土壌タイプによって異なります。
+畑を歩いて「畑の情報を表示」すると、畑での特定の場所の現在および目標の窒素レベルが確認できます。"/>
+        <text name="precisionFarming_helpText_05_part02" text="窒素レベルは、肥料または堆肥のいずれかを適用すると増加させることができます。
+スラリーや堆肥は、土壌タイプに応じて一定値分、窒素レベルを上昇させます。
+次の種まきに備えて畑を準備する前にこれを行っておくことをお勧めします。
+作物がすでに植えられている場合、ミネラルおよび液体肥料は、作物の必要条件に合わせて窒素レベルを自動的に調整します。
+これは、作物を播種した後、最初の成長状態内で行う必要があります。適用速度はいつでも手動で制御できます。"/>
+        <text name="precisionFarming_helpTitle_06" text="収穫高マップ"/>
+        <text name="precisionFarming_helpText_06_part01" text="収穫高マップでは、畑の特定の場所での収穫高マップが確認できます。
+これは、後で畑の分析のために使用できます。"/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="経済分析"/>
+        <text name="precisionFarming_helpText_07_part01" text="各畑の経済分析を取得するには、「精密農業」ページの各畑をクリックします。
+これにより、畑の費用、収益、および合計残高を一覧表示するウィンドウが開きます。"/>
+        <text name="precisionFarming_helpText_07_part02" text="畑の合計値、あるいは最後にリセットボタンが押した時以降の統計を表示できます。
+これにより、複数の収穫にわたってデータを追跡することが可能になります。"/>
+        <text name="precisionFarming_helpTitle_08" text="RTKステーション"/>
+        <text name="precisionFarming_helpText_08_part01" text="ショップにはRTKアンテナが上に付いている、2つの新しい建物があります。
+このアンテナはヘルパーに、より良いGPS信号を提供します。"/>
+        <text name="precisionFarming_helpText_08_part02" text="新しい建物の1つがマップ上に配置されている限り、ヘルパーの精度が向上し、作業速度が以前よりも最大11％向上します。"/>
+        <text name="ui_mapOverviewSoilPA" text="土壌タイプ"/>
+        <text name="ui_mapOverviewYieldPA" text="収穫高"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="窒素"/>
+        <text name="typeDesc_soilSampler" text="土壌サンプリング装置"/>
+        <text name="function_soilSampler" text="土壌サンプリング装置があれば、土壌のサンプルを採取して、今後に役立つ畑についてより詳細な情報を手に入れることができます。"/>
+        <text name="action_takeSoilSample" text="土壌サンプルを採取する"/>
+        <text name="action_sendSoilSamples" text="土壌サンプルを分析に回す"/>
+        <text name="info_numSamplesTaken" text="採取した土壌サンプル：%d"/>
+        <text name="info_samplesSend" text="土壌サンプルが分析のために研究所に送られます。まもなく、土壌タイプマップ上で結果が見られるようになります。"/>
+        <text name="info_samplesAnalysed" text="分析済み土壌サンプル"/>
+        <text name="pa_fieldInfo_soil" text="土壌"/>
+        <text name="pa_fieldInfo_phValue" text="pH値"/>
+        <text name="pa_fieldInfo_nValue" text="窒素"/>
+        <text name="pa_fieldInfo_perfect" text="最適"/>
+        <text name="pa_fieldInfo_good" text="優良"/>
+        <text name="pa_fieldInfo_ok" text="良"/>
+        <text name="pa_fieldInfo_bad" text="不良"/>
+        <text name="ui_precisionFarming_soilType_1" text="壌質砂土"/>
+        <text name="ui_precisionFarming_soilType_2" text="砂壌土"/>
+        <text name="ui_precisionFarming_soilType_3" text="壌土"/>
+        <text name="ui_precisionFarming_soilType_4" text="シルト質粘土"/>
+        <text name="pa_sampledArea" text="採取した土壌サンプル"/>
+        <text name="ui_precisionFarming_outdatedData" text="古いデータ"/>
+        <text name="shopItem_rtkStation" text="RTKベースステーション付き建物"/>
+        <text name="shopItem_garageRtkStation" text="RTKベースステーション付き小屋"/>
+        <text name="function_rtkStation" text="このステーションは、車両により良いGPS信号を提供します。このステーションがあればAIヘルパーの運転がより精密になり、仕事の速度が上がります。"/>
+        <text name="hudExtension_headline_ph_lime" text="pH値 - 石灰を適用"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="窒素 - ミネラル肥料を適用"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="窒素 - 液体肥料を適用"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="窒素 - スラリーを適用"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="窒素 - 堆肥を適用"/>
+        <text name="hudExtension_actualValue" text="現在の
+%s"/>
+        <text name="hudExtension_newValue" text="New：%s"/>
+        <text name="hudExtension_targetReached" text="到達したターゲット
+%s"/>
+        <text name="hudExtension_applicationRate" text="適用速度："/>
+        <text name="hudExtension_soilType" text="土壌：%s"/>
+        <text name="hudExtension_unknown" text="不明"/>
+        <text name="hudExtension_automaticShort" text="オート"/>
+        <text name="hudExtension_description_limeAuto" text="%s（%s）のpHを最適値に上げる"/>
+        <text name="hudExtension_description_limeManual" text="%s（%s）のpH最適値を表示"/>
+        <text name="hudExtension_description_slurryAuto" text="土壌収穫高の可能性に応じたスラリーの量の適用（%s）"/>
+        <text name="hudExtension_description_manureAuto" text="土壌収穫高の可能性に応じた堆肥の量の適用（%s）"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="%sの%sの窒素レベルを最適値に上げる"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="作物は検知されませんでした。最善の結果を得るにはまず種を植えましょう。%sにデフォルト値を適用しましょう。"/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="%sの%sの最適値を表示"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="作物は検知されませんでした。最初に種を蒔き、施肥の推奨事項を確認します。 "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="作物に追加の肥料は必要ありません。"/>
+        <text name="hudExtension_invalidValues" text="値はまだ検知されていません"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="自動適用速度を有効にする"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="自動適用速度を無効にする"/>
+        <text name="action_toggleSprayAmountManual" text="適用速度の変更"/>
+        <text name="soilStates_replaced" text="精密農業を参照してください"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="散布量を増加する"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="散布量を減少する"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="自動散布量を切り替える"/>
+    </texts>
+</l10n>

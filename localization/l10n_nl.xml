@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Precisielandbouw"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratorium"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Het laboratorium analyseert %d bodemmonsters."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Er zijn momentele geen bodemmonsters om te analyseren."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Economische analyse"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Veld %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Extra veld (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Waarden sinds laatste reset"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Totaalwaarden"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Waarden sinds reset tonen"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Totaalwaarden tonen"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Totaal"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Resetten"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Bodemmonsters:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Landbouwkalk:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Mineraalmest:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Vloeibare meststof:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Mest:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Drijfmest:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Zaden:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Brandstof:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Voertuigonderhoud:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="AI-helper:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Opbrengst:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Totale kosten"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Totale verdiensten"/>
+        <text name="ui_precisionFarming_help" text="Hulp"/>
+        <text name="ui_precisionFarming_resetYield" text="Opbrengstkaart op veld %d wissen"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Opbrengstkaart op extra veld wissen"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Veldinfo"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Bodemdistributie"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Verwacht opbrengstpotentieel"/>
+        <text name="precisionFarming_firstStart" text="Je hebt zojuist de Precisielandbouw-mod geïnstalleerd. Deze mod voegt meer realisme en onderdelen van het echte boerenleven toe aan Farming Simulator.
+
+We hebben een paar nieuwe pagina's toegevoegd aan het hulpmenu om alles uit te leggen. Wil je nu naar deze pagina's gaan?"/>
+        <text name="precisionFarming_helpHeader" text="Precisielandbouw"/>
+        <text name="precisionFarming_helpTitle_01" text="Algemeen"/>
+        <text name="precisionFarming_helpText_01_part01" text="Deze Precisielandbouw-mod voegt meer realisme en onderdelen van het echte boerenleven toe aan Farming Simulator. De focus ligt op verschillende bodemsoorten die van invloed zijn op de groei van de gewassen.
+
+De mod voegt een overzichtskaart toe die helemaal gericht is op nieuwe, gedetailleerde informatie over de bodem op verschillende punten op de kaart. Je kunt deze kaart openen via het tabblad naast de wereldkaart in het menu.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Bodemsoorten"/>
+        <text name="precisionFarming_helpText_02_part01" text="Deze mod verdeelt de bodem in vier soorten. Elke afzonderlijke bodemsoort heeft een eigen kenmerk, dat invloed heeft op de groei van het gewas en uiteindelijk ook de opbrengst. Elke bodemsoort heeft daarom een speciale behandeling nodig om een maximale opbrengt van het veld te kunnen waarborgen."/>
+        <text name="precisionFarming_helpText_02_part02" text="Bodemsoorten:
+- Leemachtig zand
+- Zandachtig leem
+- Leem
+- Ziltige klei "/>
+        <text name="precisionFarming_helpTitle_03" text="Bodemmonsters nemen"/>
+        <text name="precisionFarming_helpText_03_part01" text="Om te bepalen welke bodemsoort zich waar op het veld bevindt, moet je eerst de bodem analyseren. Je kunt dit doen met een apparaat om bodemmonsters te nemen, zoals de ISARIA SCOUT, die je in de winkel kunt kopen. Rij naar verschillende plekken op het veld met het apparaat om bodemmonsters te nemen. Neem verschillende bodemmonsters tot het veld volledig donkerrood kleurt op de bodemkaart. Deze kleur geeft aan waar al bodemmonsters zijn genomen."/>
+        <text name="precisionFarming_helpText_03_part02" text="Daarna kun je de bodemmonsters naar het laboratorium sturen voor analyse. Een paar minuten later verschijnen dan de resultaten op de bodemkaart. Daarnaast kun je nu ook de pH- en stikstofkaart zien."/>
+        <text name="precisionFarming_helpTitle_04" text="pH-waarde"/>
+        <text name="precisionFarming_helpText_04_part01" text="Naast de bodemkaart vind je de pH-waardekaart. Die geeft de zuurtegraad of de basiditeit van de bodem weer. De pH-waarde moet altijd binnen het optimale doelbereik vallen, afhankelijk van de bodemsoort.
+
+Doel-pH-waardes per bodemsoort:
+- Leemachtig zand: 6,0
+- Zandachtig leem: 6,5
+- Leem: 6,75
+- Ziltige klei: 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="De pH-waarde kan worden verhoogd door kalk toe te voegen aan het veld. Dit wordt om de drie oogsten aanbevolen. Standaard past de landbouwkalkstrooier automatisch de verhoudingen aan die nodig zijn om de optimale pH-waarde te bereiken, maar er is ook een optie om deze handmatig in te stellen. Als de pH-waarde niet op het optimale niveau is, neemt de opbrengst af. Afhankelijk van de bodemsoort neemt het pH-niveau na elke oogst af."/>
+        <text name="precisionFarming_helpTitle_05" text="Stikstofwaarde"/>
+        <text name="precisionFarming_helpText_05_part01" text="Naast de pH-waardekaart vind je de stikstofkaart. Die geeft het huidige niveau van stikstof in de bodem weer. Het optimale niveau van stikstof is afhankelijk van het geplante gewas en de bodemsoort. Door over het veld te lopen en naar de veldinfo te kijken, zie je de huidige en doelniveaus voor stikstof op een bepaalde plek op het veld."/>
+        <text name="precisionFarming_helpText_05_part02" text="Je kunt het stikstofniveau verhogen door meststof of mest aan te brengen. Drijfmest of mest verhogen het stikstofniveau met een vaste waarde, afhankelijk van de bodemsoort. We raden je aan om dit te doen voordat je het veld voorbereidt op de volgende zaaiing. Met mineraal- en vloeibare meststof pas je het stikstofniveau automatisch aan de gewasvereisten aan, als het gewas al is geplant. Dit moet in de eerste groeifases gebeuren, na het inzaaien van het gewas. Je kunt de verhouding altijd handmatig regelen."/>
+        <text name="precisionFarming_helpTitle_06" text="Opbrengstkaart"/>
+        <text name="precisionFarming_helpText_06_part01" text="Op de opbrengstkaart zie je de opbrengst op verschillende plekken op het veld. Je kunt dit gebruiken om het veld erna te analyseren."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Economische analyse"/>
+        <text name="precisionFarming_helpText_07_part01" text="Voor een economische analyse van elk veld kun je op elk veld klikken op de pagina 'Precisielandbouw'. Hiermee open je een venster met de kosten, verdiensten en de totale balans van het veld."/>
+        <text name="precisionFarming_helpText_07_part02" text="Je kunt de totaalwaarden van het veld bekijken of de statistieken sinds de laatste keer dat je op de resetknop hebt gedrukt. Op deze manier kun je de gegevens over meerdere oogsten volgen."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK-station"/>
+        <text name="precisionFarming_helpText_08_part01" text="Er zijn twee nieuwe gebouwen beschikbaar in de winkel met een RTK-antenne erop. Deze antenne biedt een beter GPS-signaal voor de helpers."/>
+        <text name="precisionFarming_helpText_08_part02" text="Zolang een van de nieuwe gebouwen op de kaart is geplaatst, neemt de nauwkeurigheid van de helpers toe en werken ze tot wel 11% sneller dan eerst."/>
+        <text name="ui_mapOverviewSoilPA" text="Bodemsoorten"/>
+        <text name="ui_mapOverviewYieldPA" text="Opbrengst"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Stikstof"/>
+        <text name="typeDesc_soilSampler" text="bodemmonster-unit"/>
+        <text name="function_soilSampler" text="Met een bodemmonster-unit kun je bodemmonsters nemen voor meer gedetailleerde informatie over een veld voor verdere bewerkingsstappen."/>
+        <text name="action_takeSoilSample" text="Bodemmonster nemen"/>
+        <text name="action_sendSoilSamples" text="Bodemmonsters opsturen voor analyse"/>
+        <text name="info_numSamplesTaken" text="Genomen bodemmonsters: %d"/>
+        <text name="info_samplesSend" text="De bodemmonsters worden naar het laboratorium gestuurd voor analyse. Binnenkort vind je resultaten op de kaart met bodemsoorten."/>
+        <text name="info_samplesAnalysed" text="Bodemmonsters geanalyseerd"/>
+        <text name="pa_fieldInfo_soil" text="Bodem"/>
+        <text name="pa_fieldInfo_phValue" text="pH-waarde"/>
+        <text name="pa_fieldInfo_nValue" text="Stikstof"/>
+        <text name="pa_fieldInfo_perfect" text="Perfect"/>
+        <text name="pa_fieldInfo_good" text="Goed"/>
+        <text name="pa_fieldInfo_ok" text="Redelijk"/>
+        <text name="pa_fieldInfo_bad" text="Slecht"/>
+        <text name="ui_precisionFarming_soilType_1" text="Leemachtig zand"/>
+        <text name="ui_precisionFarming_soilType_2" text="Zandachtig leem"/>
+        <text name="ui_precisionFarming_soilType_3" text="Leem"/>
+        <text name="ui_precisionFarming_soilType_4" text="Ziltige klei"/>
+        <text name="pa_sampledArea" text="Bodemmonster genomen"/>
+        <text name="ui_precisionFarming_outdatedData" text="Verouderde gegevens"/>
+        <text name="shopItem_rtkStation" text="Gebouw met RTK-basisstation"/>
+        <text name="shopItem_garageRtkStation" text="Schuur met RTK-basisstation"/>
+        <text name="function_rtkStation" text="Dit station geeft je voertuigen een beter GPS-signaal. Hiermee help je je AI-helper om nauwkeuriger te rijden en het werk sneller te doen."/>
+        <text name="hudExtension_headline_ph_lime" text="pH-waarde - Aanbrengen landbouwkalk"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Stikstof - aanbrengen mineraalmest"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Stikstof - aanbrengen vloeibare mest"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Stikstof - aanbrengen drijfmest"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Stikstof - aanbrengen mest"/>
+        <text name="hudExtension_actualValue" text="Huidige
+%s"/>
+        <text name="hudExtension_newValue" text="Nieuw: %s"/>
+        <text name="hudExtension_targetReached" text="Doel bereikt
+%s"/>
+        <text name="hudExtension_applicationRate" text="Aanbrengingsverhouding:"/>
+        <text name="hudExtension_soilType" text="Bodem: %s"/>
+        <text name="hudExtension_unknown" text="Onbekend"/>
+        <text name="hudExtension_automaticShort" text="automatisch"/>
+        <text name="hudExtension_description_limeAuto" text="Verhoging van pH naar optimale waarde voor '%s' (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Optimale pH-waarde weergeven voor '%s' (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Drijfmest aanbrengen op basis van het potentieel van de bodemopbrengst (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Mest aanbrengen op basis van het potentieel van de bodemopbrengst (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Verhoging van stikstofniveau naar optimale waarde voor '%s' op '%s'"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Geen gewas gedetecteerd. Eerst inzaaien voor het beste resultaat. Standaardwaarde toepassen voor '%s'."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Optimale waarde tonen voor '%s' op '%s'"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Geen gewas gedetecteerd. Eerst inzaaien om de aanbeveling voor bemesten te zien. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Gewas hoeft niet extra bemest te worden."/>
+        <text name="hudExtension_invalidValues" text="Nog geen waarden gedetecteerd"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Automatische aanbrengingsverhouding activeren"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Automatische aanbrengingsverhouding uitschakelen"/>
+        <text name="action_toggleSprayAmountManual" text="Aanbrengingsverhouding wijzigen"/>
+        <text name="soilStates_replaced" text="Zie Precisielandbouw"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Sproeihoeveelheid verhogen"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Sproeihoeveelheid verlagen"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Automatische sproeihoeveelheid aan/uit"/>
+    </texts>
+</l10n>

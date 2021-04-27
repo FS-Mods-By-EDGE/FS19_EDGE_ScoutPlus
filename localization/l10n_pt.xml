@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Agricultura de precisão"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratório"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="O laboratório está a analisar %d amostras de solo."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Atualmente não há amostras de solo para analisar."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Análise económica"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Campo %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Campo adicional (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Valores desde a última restauração"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Valores totais"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Mostrar valores desde a restauração"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Mostrar valores totais"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Total"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Restaurar"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Amostras de solo:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Cal:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Fertilizante mineral:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Fertilizante líquido:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Estrume:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Chorume:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Sementes:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Combustível:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Manutenção do veículo:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Trabalhador IA:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Produção:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Custos totais"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Lucros totais"/>
+        <text name="ui_precisionFarming_help" text="Ajuda"/>
+        <text name="ui_precisionFarming_resetYield" text="Limpar mapa de produção no campo %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Limpar mapa de produção no campo adicional"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Info do campo"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Distribuição do solo"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Produção potencial prevista"/>
+        <text name="precisionFarming_firstStart" text="Acabaste de instalar o mod de agricultura de precisão. Este mod acrescenta maior realismo e aspetos da agricultura real no Farming Simulator.
+
+Acrescentámos algumas novas páginas ao menu Ajuda para explicar tudo. Queres abri-las agora?"/>
+        <text name="precisionFarming_helpHeader" text="Agricultura de precisão"/>
+        <text name="precisionFarming_helpTitle_01" text="Geral"/>
+        <text name="precisionFarming_helpText_01_part01" text="Este mod de agricultura de precisão acrescenta maior realismo e aspetos da agricultura real no Farming Simulator. O principal foco é em diferentes tipos de solo, que influenciam o crescimento das colheitas.
+
+O mod acrescenta um mapa geral dedicado a informações novas mais detalhadas sobre o solo em locais específicos do mapa. Podes aceder a este mapa no menu, através do separador próximo ao mapa do mundo.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Tipos de solo"/>
+        <text name="precisionFarming_helpText_02_part01" text="Este mod divide a terra em quatro tipos de solo. Cada tipo de solo individual tem a sua própria característica, que influencia o crescimento da colheita e, em última análise, a quantidade produzida. Assim, cada tipo de solo necessita de tratamento especial para obter a produção máxima do campo."/>
+        <text name="precisionFarming_helpText_02_part02" text="Tipos de solo:
+- Areia argilosa
+- Argila arenosa
+- Argila
+- Argila siltosa "/>
+        <text name="precisionFarming_helpTitle_03" text="Amostras de solo"/>
+        <text name="precisionFarming_helpText_03_part01" text="Para determinar qual o tipo de solo que se encontra especificamente no campo, é necessário analisar primeiro o solo. Isto pode ser feito com um dispositivo de amostragem de solo, como o ISARIA SCOUT, que se encontra disponível na loja. Dirige-te a diferentes locais do campo com o dispositivo de amostragem de solo. Recolhe diversas amostras de solo até todo o mapa de solo estar marcado a vermelho escuro. Esta cor indica onde já foram recolhidas amostras."/>
+        <text name="precisionFarming_helpText_03_part02" text="Em seguida podes enviar as amostras de solo para o laboratório para análise. Uns minutos mais tarde vais obter os resultados no mapa de solo. Além disso, também vais poder ver o mapa de pH e de azoto."/>
+        <text name="precisionFarming_helpTitle_04" text="Valor de pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Junto do mapa de solo, podes encontrar o mapa de valores de pH. Isto indica a acidez ou basicidade do solo. O valor do pH deve estar sempre no intervalo ideal, dependendo do tipo de solo.
+
+Valores de pH alvo por tipo de solo:
+- Areia argilosa: 6,0
+- Argila arenosa: 6,5
+- Argila: 6,75
+- Argila siltosa: 7,0."/>
+        <text name="precisionFarming_helpText_04_part02" text="O valor do pH pode ser aumentado através da calagem do campo. Isto é recomendado após cada terceira colheita. O distribuidor de cal está predefinido para ajustar automaticamente a taxa de aplicação à taxa necessária para atingir o nível ideal de pH alvo, mas existe também uma opção para o controlar manualmente. Se o valor do pH não estiver no nível ideal, a produção diminui. Dependendo do tipo de solo, o nível de pH diminui após cada colheita."/>
+        <text name="precisionFarming_helpTitle_05" text="Valor de azoto"/>
+        <text name="precisionFarming_helpText_05_part01" text="Ao lado do mapa de pH podes encontrar o mapa de azoto. Isto indica o nível atual de azoto no solo. O nível ideal de azoto depende da colheita plantada e do tipo de solo. Ao caminhar no campo e dar uma vista de olhos no &quot;Ecrã de info do campo&quot;, podes ver os níveis atuais e alvo de azoto de um local específico no campo."/>
+        <text name="precisionFarming_helpText_05_part02" text="O nível de azoto pode ser aumentado através da aplicação de fertilizante ou estrume. O chorume ou estrume irão aumentar o nível de azoto num valor fixo, dependendo do tipo de solo. Recomenda-se fazer isto antes de preparar o campo para a próxima sementeira. O fertilizante mineral e líquido ajusta automaticamente o nível de azoto às necessidades da colheita, se esta já estiver plantada. Isto deve ser feito dentro dos primeiros estados de crescimento, após a sementeira da colheita. É sempre possível controlar manualmente a taxa de aplicação."/>
+        <text name="precisionFarming_helpTitle_06" text="Mapa de produção"/>
+        <text name="precisionFarming_helpText_06_part01" text="Podes ver a produção em pontos específicos do campo no mapa de produção. Isto pode ser utilizado para analisar o campo posteriormente."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Análise económica"/>
+        <text name="precisionFarming_helpText_07_part01" text="Para obteres uma análise económica de cada campo, podes clicar em cada campo na página de &quot;Agricultura de precisão&quot;. Isto abrirá uma janela que listará os custos, lucros e balanço total do campo."/>
+        <text name="precisionFarming_helpText_07_part02" text="Podes visualizar os valores totais do campo ou ter uma estatística desde a última vez que o botão de restaurar foi premido. Isto dá-te a possibilidade de rastrear dados ao longo de múltiplas colheitas."/>
+        <text name="precisionFarming_helpTitle_08" text="Estação RTK"/>
+        <text name="precisionFarming_helpText_08_part01" text="Há dois novos edifícios disponíveis na loja que têm uma antena RTK no topo. Esta antena fornece um melhor sinal GPS para os trabalhadores."/>
+        <text name="precisionFarming_helpText_08_part02" text="Desde que um dos novos edifícios seja colocado no mapa, a precisão dos trabalhadores é aumentada e estes trabalham até 11% mais depressa do que antes."/>
+        <text name="ui_mapOverviewSoilPA" text="Tipos de solo"/>
+        <text name="ui_mapOverviewYieldPA" text="Produção"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Azoto"/>
+        <text name="typeDesc_soilSampler" text="unidade de amostragem de solo"/>
+        <text name="function_soilSampler" text="Com uma unidade de amostragem de solo podes recolher amostras de solo para obteres informações mais detalhadas sobre um campo para futuras etapas de trabalho."/>
+        <text name="action_takeSoilSample" text="Recolher amostra de solo"/>
+        <text name="action_sendSoilSamples" text="Enviar amostras de solo para análise"/>
+        <text name="info_numSamplesTaken" text="Amostras de solo recolhidas: %d"/>
+        <text name="info_samplesSend" text="As amostras de solo são agora enviadas para um laboratório para análise. Verás em breve os resultados no mapa de tipos de solo."/>
+        <text name="info_samplesAnalysed" text="Amostras de solo analisadas"/>
+        <text name="pa_fieldInfo_soil" text="Solo"/>
+        <text name="pa_fieldInfo_phValue" text="Valor de pH"/>
+        <text name="pa_fieldInfo_nValue" text="Azoto"/>
+        <text name="pa_fieldInfo_perfect" text="Perfeito"/>
+        <text name="pa_fieldInfo_good" text="Bom"/>
+        <text name="pa_fieldInfo_ok" text="OK"/>
+        <text name="pa_fieldInfo_bad" text="Mau"/>
+        <text name="ui_precisionFarming_soilType_1" text="Areia argilosa"/>
+        <text name="ui_precisionFarming_soilType_2" text="Argila arenosa"/>
+        <text name="ui_precisionFarming_soilType_3" text="Argila"/>
+        <text name="ui_precisionFarming_soilType_4" text="Argila siltosa"/>
+        <text name="pa_sampledArea" text="Amostra de solo recolhida"/>
+        <text name="ui_precisionFarming_outdatedData" text="Dados desatualizados"/>
+        <text name="shopItem_rtkStation" text="Edifício com estação com base em RTK"/>
+        <text name="shopItem_garageRtkStation" text="Barracão com estação com base em RTK"/>
+        <text name="function_rtkStation" text="Esta estação fornece aos teus veículos um melhor sinal GPS. Isto ajuda os teus trabalhadores IA a conduzir com maior precisão e a fazer o seu trabalho mais rapidamente."/>
+        <text name="hudExtension_headline_ph_lime" text="Valor de pH - Aplicação de cal"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Azoto - Aplicação de fertilizante mineral"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Azoto - Aplicação de fertilizante líquido"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Azoto - Aplicação de chorume"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Azoto - Aplicação de estrume"/>
+        <text name="hudExtension_actualValue" text="atual
+%s"/>
+        <text name="hudExtension_newValue" text="Novo: %s"/>
+        <text name="hudExtension_targetReached" text="Objetivo alcançado
+%s"/>
+        <text name="hudExtension_applicationRate" text="Taxa de aplicação:"/>
+        <text name="hudExtension_soilType" text="Solo: %s"/>
+        <text name="hudExtension_unknown" text="Desconhecido"/>
+        <text name="hudExtension_automaticShort" text="auto."/>
+        <text name="hudExtension_description_limeAuto" text="Aumentar pH para valor ideal para &quot;%s&quot; (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Apresentar valor do pH ideal para &quot;%s&quot; (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Aplicar quantidade de chorume dependendo da produção potencial do solo (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Aplicar quantidade de estrume dependendo da produção potencial do solo (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Aumentar nível de azoto para o valor ideal para &quot;%s&quot; em &quot;%s&quot;"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Sem colheita detetada. Semear primeiro para obter o melhor resultado. Aplicar valor predefinido para &quot;%s&quot;."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Apresentar valor ideal para &quot;%s&quot; em &quot;%s&quot;"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Sem colheita detetada. Semear primeiro para ver recomendação de fertilização. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="A colheita não precisa de mais fertilizante."/>
+        <text name="hudExtension_invalidValues" text="Ainda sem valores detetados"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Ativar taxa de aplicação automática"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Desativar taxa de aplicação automática"/>
+        <text name="action_toggleSprayAmountManual" text="Mudar taxa de aplicação"/>
+        <text name="soilStates_replaced" text="Ver agricultura de precisão"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Aumentar quantidade de pulverização"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Diminuir quantidade de pulverização"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Alternar quantidade de pulverização automática"/>
+    </texts>
+</l10n>

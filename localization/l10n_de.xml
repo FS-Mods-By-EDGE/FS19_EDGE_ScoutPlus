@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Precision Farming"/>
+        <text name="ui_precisionFarming_laboratory" text="Labor"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Das Labor analysiert gerade %d Bodenproben."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Aktuell keine Bodenproben zum Analysieren."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Wirtschaftliche Analyse"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Feld %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Zusätzliches Feld (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Werte seit letztem Zurücksetzen"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Gesamtwerte"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Zeige Werte Seit zurücksetzen"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Zeige Gesamtwerte"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Gesamt"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Zurücksetzen"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Bodenproben:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Kalk:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Mineraldünger:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Flüssigdünger:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Mist:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Gülle:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Saatgut:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Kraftstoff:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Fahrzeug Abnutzung:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="KI-Hilfskräfte:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Ertrag:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Gesamtkosten"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Gesamteinnahmen"/>
+        <text name="ui_precisionFarming_help" text="Hilfe"/>
+        <text name="ui_precisionFarming_resetYield" text="Ertrags Karte auf Feld %d löschen"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Ertragsdaten auf zusätzlichem Feld löschen"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Feld Info"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Bodenverteilung"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Erwartetes Ertragspotenzial"/>
+        <text name="precisionFarming_firstStart" text="Du hast soeben Precision Farming installiert. Dieser DLC erweitert den Landwirtschafts-Simulator um neue Funktionen basierend auf realer Landwirtschaft.
+
+Wir haben das Hilfemenü um neue Einträge erweitert, die dir alles erklären. Möchtest du das Menü jetzt öffnen?"/>
+        <text name="precisionFarming_helpHeader" text="Precision Farming"/>
+        <text name="precisionFarming_helpTitle_01" text="Allgemeines"/>
+        <text name="precisionFarming_helpText_01_part01" text="Precision Farming erweitert das Spiel um neue Funktionen basierend auf realer Landwirtschaft. Hauptaugenmerk liegt auf unterschiedlichen Bodenarten, die Einfluss auf das Wachstum der Feldfrüchte nehmen.
+
+Im Menü findest du nun eine Übersichtskarte, die sich neuen und detaillierten Informationen des Bodens an verschiedenen Stellen der Map widmet. Die Karte findest du im Menü-Tab direkt neben der Weltkarte.
+
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Bodenarten"/>
+        <text name="precisionFarming_helpText_02_part01" text="Dieser DLC unterteilt den Boden in vier verschiedene Typen. Jede Bodenart hat seine eigene Charakteristik, die das Pflanzenwachstum und letztendlich auch den Ertrag beeinflusst.
+
+Daher benötigt jede Bodenart eine entsprechende Behandlung, um den maximalen Ertrag eines Feldes zu erwirtschaften."/>
+        <text name="precisionFarming_helpText_02_part02" text="Bodenarten:
+ - Lehmiger Sand
+ - Sandiger Lehm
+ - Lehm
+ - Schluffiger Ton
+        "/>
+        <text name="precisionFarming_helpTitle_03" text="Bodenproben"/>
+        <text name="precisionFarming_helpText_03_part01" text="Um herauszufinden, welche Bodenarten sich an welcher Stelle auf dem Feld befinden, musst du den Boden zunächst analysieren. Dies ist mit einem Bodenprobengerät wie dem ISARIA SCOUT möglich, den ihr im Ingame-Shop findet.
+
+Fahr mit dem Gerät zu verschiedenen Punkten auf dem Feld. Entnehme dort Bodenproben bis das gesamte Feld auf der Bodenkarte vollständig eingefärbt ist. Die dunkelrote Farbe zeigt an, wo breits Bodenproben entnommen wurden."/>
+        <text name="precisionFarming_helpText_03_part02" text="Danach kannst du die Proben zur Analyse an das Labor senden. Wenige Minuten später siehst du die Ergebnisse auf der Bodenkarte. Zusätzlich siehst du dort auch den pH-Wert und Stickstoffgehalt des Bodens."/>
+        <text name="precisionFarming_helpTitle_04" text="pH-Wert"/>
+        <text name="precisionFarming_helpText_04_part01" text="Neben der Bodenkarte siehst du die Karte mit den pH-Werten. Diese zeigt an, wie sauer oder basisch der Boden ist. Der pH-Wert sollte immer abhängig von der Bodenart im Optimalbereich liegen.
+
+pH-Zielwerte pro Bodenart:
+ - Lehmiger Sand: 6.0
+ - Sandiger Lehm: 6.5
+ - Lehm: 6.75
+ - Schluffiger Ton: 7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Der ph-Wert kann durch Kalk erhöht werden. Kalken ist nach jeder dritten Ernte empfohlen. Standardmäßig passt der Kalkstreuer die Ausbringungsrate automatisch an, um den idealen pH-Wert zu erreichen. Eine Option für eine manuelle Ausbringungsrate ist jedoch ebenfalls vorhanden.
+
+Falls der pH-Wert nicht das optimale Level erreicht, fällt der Ertrag niedriger aus. Abhängig von der Bodenart sinkt der pH-Wert nach jeder Ernte."/>
+        <text name="precisionFarming_helpTitle_05" text="Stickstoffgehalt"/>
+        <text name="precisionFarming_helpText_05_part01" text="Neben der pH-Übersicht findest du die Stickstoffübersicht. Diese zeigt den aktuellen Stickstoffgehalt im Boden an. Der ideale Stickstoffgehalt hängt von der Fruchtsorte und der Bodenart ab.
+
+Wenn du über das Feld läufst und einen Blick auf die Feldinfo-Anzeige wirfst, siehst du den aktuellen Stickstoffgehalt sowie den Zielbereich an dem jeweiligen Punkt, auf dem du stehst."/>
+        <text name="precisionFarming_helpText_05_part02" text="Der Stickstoffgehalt wird durch Düngemittel gesteigert.
+
+Gülle und Mist steigern den Stickstoffgehalt um einen festen Wert abhängig von der Bodenart. Wir empfehlen, den Düngevorgang vor der Bestellung des Feldes und der Saat durchzuführen.
+
+Mineral- und Flüssigdünger passen den Stickstoffgehalt automatisch an die Anforderungen der jeweiligen Fruchtsorte an, sofern sie bereits gepflanzt wurde. Dies sollte während der ersten Wachstumsstufe geschehen, nachdem die Saat ausgebracht wurde.
+
+Es ist jederzeit möglich, die Ausbringungsrate manuell zu regeln."/>
+        <text name="precisionFarming_helpTitle_06" text="Ertragsübersicht"/>
+        <text name="precisionFarming_helpText_06_part01" text="In der Ertragsübersicht siehst du den Ertrag für bestimmte Punkte auf dem Feld. Dies hilft bei der späteren Analyse des Feldes."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Wirtschaftsanalyse"/>
+        <text name="precisionFarming_helpText_07_part01" text="Um eine wirtschaftliche Analyse zu erhalten, kannst du im Precision Farming-Tab jedes Feld anklicken. Dies öffnet ein Fenster, das Kosten, Ertrag und Bilanz des Feldes anzeigt."/>
+        <text name="precisionFarming_helpText_07_part02" text="Du kannst dir wahlweise die Gesamtwerte des Feldes ansehen oder eine Statistik, die seit dem letzten Reset erstellt wurde."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK-Station"/>
+        <text name="precisionFarming_helpText_08_part01" text="Es gibt zwei neue Gebäudetypen im Shop, die über eine RTK-Antenne auf dem Dach verfügen. Die Antenne ermöglichst ein besseres GPS-Signal für den Helfer."/>
+        <text name="precisionFarming_helpText_08_part02" text="Sofern ein Gebäude auf der Map platziert wurde, steigert dies die Präzision des Helfers, der nun bis zu 11% schneller arbeitet."/>
+        <text name="ui_mapOverviewSoilPA" text="Bodenarten"/>
+        <text name="ui_mapOverviewYieldPA" text="Ertrag"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Stickstoff"/>
+        <text name="typeDesc_soilSampler" text="Bodenprobenentnahmegerät"/>
+        <text name="function_soilSampler" text="Mit einem Bodenprobenentnahmegerät können Bodenproben entnommen werden, um für spätere Arbeitsschritte genauere Informationen über den Boden zu bekommen."/>
+        <text name="action_takeSoilSample" text="Bodenprobe entnehmen"/>
+        <text name="action_sendSoilSamples" text="Bodenproben zum Analysieren senden"/>
+        <text name="info_numSamplesTaken" text="Entnommene Bodenproben: %d"/>
+        <text name="info_samplesSend" text="Die entnommenen Bodenproben werden nun in ein Labor gesendet, um diese zu analysieren. Die Ergebnisse werden bald auf der Bodenarten Karte angezeigt."/>
+        <text name="info_samplesAnalysed" text="Bodenproben analysiert"/>
+        <text name="pa_fieldInfo_soil" text="Boden"/>
+        <text name="pa_fieldInfo_phValue" text="pH Wert"/>
+        <text name="pa_fieldInfo_nValue" text="Stickstoff"/>
+        <text name="pa_fieldInfo_perfect" text="Perfekt"/>
+        <text name="pa_fieldInfo_good" text="Gut"/>
+        <text name="pa_fieldInfo_ok" text="Ok"/>
+        <text name="pa_fieldInfo_bad" text="Schlecht"/>
+        <text name="ui_precisionFarming_soilType_1" text="Lehmiger Sand"/>
+        <text name="ui_precisionFarming_soilType_2" text="Sandiger Lehm"/>
+        <text name="ui_precisionFarming_soilType_3" text="Lehm"/>
+        <text name="ui_precisionFarming_soilType_4" text="Schluffiger Ton"/>
+        <text name="pa_sampledArea" text="Bodenprobe genommen"/>
+        <text name="ui_precisionFarming_outdatedData" text="Veraltete Daten"/>
+        <text name="shopItem_rtkStation" text="Gebäude mit RTK Basis Station"/>
+        <text name="shopItem_garageRtkStation" text="Halle mit RTK Basis Station"/>
+        <text name="function_rtkStation" text="Diese Station liefert deinen Fahrzeugen ein besseres GPS Signal. Das hilft deinen KI Helfer um noch präziser zu fahren und ihre Arbeit schneller zu erledigen."/>
+        <text name="hudExtension_headline_ph_lime" text="pH Wert - Kalkausbringung"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Stickstoff - Mineraldünger Ausbringung"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Stickstoff - Flüssigdünger Ausbringung"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Stickstoff - Gülle Ausbringung"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Stickstoff - Mist Ausbringung"/>
+        <text name="hudExtension_actualValue" text="Aktuell:
+%s"/>
+        <text name="hudExtension_newValue" text="Neu: %s"/>
+        <text name="hudExtension_targetReached" text="Ziel erreicht
+%s"/>
+        <text name="hudExtension_applicationRate" text="Ausbringmenge:"/>
+        <text name="hudExtension_soilType" text="Boden: %s"/>
+        <text name="hudExtension_unknown" text="Unbekannt"/>
+        <text name="hudExtension_automaticShort" text="autom."/>
+        <text name="hudExtension_description_limeAuto" text="Erhöhe pH Wert auf optimalen Wert für '%s' (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Zeige optimalen pH Wert für '%s' (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Ausbringmenge angepasst anhand von Ertragspotential für Boden '%s'."/>
+        <text name="hudExtension_description_manureAuto" text="Ausbringmenge angepasst anhand von Ertragspotential für Boden '%s'."/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Erhöhe Stickstoff Wert auf optimalen Wert für '%s' auf '%s'."/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Keine Pflanze erkannt. Sähe zuerst für bestes Ergebnis. Verwende Standard für Boden '%s'"/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Zeige optimalen Wert für '%s' auf '%s'."/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Keine Pflanze erkannt. Sähe zuerst, um den empfohlenen Wert zu sehen."/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Pflanze braucht keinen zusätzlichen Dünger."/>
+        <text name="hudExtension_invalidValues" text="Noch keine Werte erkannt"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Automatische Ausbringmenge aktivieren"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Automatische Ausbringmenge deaktivieren"/>
+        <text name="action_toggleSprayAmountManual" text="Ausbringmenge ändern"/>
+        <text name="soilStates_replaced" text="Siehe Precision Farming"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Ausbringmenge erhöhen"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Ausbringmenge verringern"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Automatische Ausbringmenge ein-/ausschalten"/>
+    </texts>
+</l10n>

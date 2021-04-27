@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Rolnictwo precyzyjne"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratorium"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Laboratorium analizuje %d szt. próbek gleby."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Aktualnie nie ma próbek gleby do analizy."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Analiza gospodarcza"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Pole: %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Dodatkowe pole (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Wartości od ostatniego resetu"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Łączne wartości"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Pokaż wartości od resetu"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Pokaż łączne wartości"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Łącznie"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Reset"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Próbki gleby:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Wapno:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Nawóz mineralny:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Płynny nawóz:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Obornik:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Gnojówka:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Nasiona:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Paliwo:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Utrzymanie pojazdu:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Pomocnik SI:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Plon:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Łączny koszt"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Łączny zarobek"/>
+        <text name="ui_precisionFarming_help" text="Pomoc"/>
+        <text name="ui_precisionFarming_resetYield" text="Wyczyść mapę plonów na polu %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Wyczyść mapę plonów na dodatkowym polu "/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Informacje o polu"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Rozmieszczenie gleby"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Oczekiwany potencjał plonu"/>
+        <text name="precisionFarming_firstStart" text="W twojej grze został zainstalowany mod „Rolnictwo precyzyjne”. Dodatek ten wzbogaca realizm i wprowadza nowe aspekty prawdziwego rolnictwa w grze Farming Simulator. W menu pomocy umieściliśmy nowe informacje, które objaśniają dodaną zawartość.
+
+Chcesz je teraz otworzyć?"/>
+        <text name="precisionFarming_helpHeader" text="Rolnictwo precyzyjne"/>
+        <text name="precisionFarming_helpTitle_01" text="Informacje ogólne"/>
+        <text name="precisionFarming_helpText_01_part01" text="„Rolnictwo precyzyjne” wzbogaca realizm i wprowadza nowe aspekty prawdziwego rolnictwa w grze Farming Simulator. Najważniejszą zmianę stanowią odmienne rodzaje gleby, od których zależy tempo wzrostu roślin.
+
+Modyfikacja ta wprowadza mapę przeglądową prezentującą nowe, bardziej szczegółowe informacje na temat gleby w konkretnych miejscach mapy. Dostęp do niej daje karta obok mapy świata w menu.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Rodzaje gleby"/>
+        <text name="precisionFarming_helpText_02_part01" text="W tym modzie występują cztery typy gleby. Każdy rodzaj gleby cechuje się charakterystycznymi właściwościami wpływającymi na wzrost roślin i, co za tym idzie, na ilość plonów. W związku z tym poszczególne rodzaje gleby wymagają odmiennej pielęgnacji w celu osiągnięcia maksymalnej wydajności ziemi uprawnej."/>
+        <text name="precisionFarming_helpText_02_part02" text="Rodzaje gleby:
+– Piasek ilasty
+– Piaszczysty ił
+– Ił
+– Ił pylasty "/>
+        <text name="precisionFarming_helpTitle_03" text="Analiza próbek gleby"/>
+        <text name="precisionFarming_helpText_03_part01" text="Aby zidentyfikować rodzaje gleby w poszczególnych częściach pola, najpierw należy zbadać skład gleby. Urządzeniem do tego przeznaczonym jest próbnik gleby (np. ISARIA SCOUT), który można kupić w sklepie. Zaopatrz się w próbnik gleby i odwiedź różne partie pola. Pobieraj próbki gleby do momentu, gdy pole na mapie gleby całkowicie zmieni kolor na ciemnoczerwony. Barwa ta oznacza, że z danego miejsca próbka gleby została już pobrana."/>
+        <text name="precisionFarming_helpText_03_part02" text="Gdy to zrobisz, możesz wysłać próbki do laboratorium w celu ich przebadania. Kilka minut później na mapie gleby pojawią się wyniki. Poza tym od teraz masz również dostęp do mapy pH i mapy azotu."/>
+        <text name="precisionFarming_helpTitle_04" text="Wartość pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Obok mapy gleby znajduje się mapa wartości pH. Obrazuje ona kwasowość i zasadowość gleby. Wartość współczynnika pH powinna zawsze wypadać w optymalnym zakresie docelowym typowym dla konkretnego rodzaju gleby.
+
+Docelowe wartości pH zależnie od rodzaju gleby:
+– Piasek ilasty: 6,0
+– Piaszczysty ił: 6,5
+– Ił: 6,75
+– Ił pylasty: 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Wartość pH można zwiększyć, wapnując glebę. Czynność tę należy przeprowadzać co trzeci zbiór. Domyślnie rozsiewacz wapna automatycznie dostosowuje dawkę rozsiewu do dawki wymaganej w celu osiągnięcia optymalnego poziomu docelowego pH, ale ten parametr można również regulować samodzielnie. Jeśli wartość pH znajdzie się poza optymalnym zakresem, plony zaczną spadać. W zależności od rodzaju gleby poziom pH spada o pewną wartość po każdym zbiorze."/>
+        <text name="precisionFarming_helpTitle_05" text="Wartość azotu"/>
+        <text name="precisionFarming_helpText_05_part01" text="Obok mapy pH znajduje się mapa azotu. Widać na niej aktualną ilość azotu w glebie. Optymalny poziom azotu zależy od hodowanego gatunku roślin i rodzaju gleby. Gdy wejdziesz na pole i spojrzysz na „Wyświetlacz informacji o polu”, zobaczysz aktualny i docelowy poziom azotu w danym miejscu na polu."/>
+        <text name="precisionFarming_helpText_05_part02" text="Poziom azotu można podnieść, użyźniając glebę nawozem lub obornikiem. Gnojówka lub obornik podniesie poziom azotu o konkretną wartość w zależności od rodzaju gleby. Warto się tym zająć przed przygotowaniem pola pod kolejny zasiew. Jeżeli rośliny zostały już zasadzone, nawozy mineralny i płynny automatycznie regulują poziom azotu stosownie do wymagań tychże roślin. Nawóz należy zastosować w trakcie początkowych faz wzrostu – po zasiewie. Aplikowane dawki zawsze można regulować samodzielnie."/>
+        <text name="precisionFarming_helpTitle_06" text="Mapa plonów"/>
+        <text name="precisionFarming_helpText_06_part01" text="Na mapie plonów można prześledzić plon w konkretnych miejscach pola. Dzięki niej możesz przeanalizować pole na późniejszych etapach."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Analiza gospodarcza"/>
+        <text name="precisionFarming_helpText_07_part01" text="W celu uzyskania gospodarczej analizy poszczególnych pól możesz kliknąć każde pole na stronie rolnictwa precyzyjnego. Ukaże się wówczas okno prezentujące koszty, zyski oraz łączne saldo pola."/>
+        <text name="precisionFarming_helpText_07_part02" text="Masz dostęp zarówno do zsumowanych wartości pola, jak i statystyk od ostatniego użycia przycisku resetującego. Funkcja ta umożliwia monitorowanie danych pochodzących z wielu zbiorów."/>
+        <text name="precisionFarming_helpTitle_08" text="Stacja RTK"/>
+        <text name="precisionFarming_helpText_08_part01" text="W sklepie pojawiły się dwa nowe budynki wyposażone w antenę RTK. Antena wzmacnia sygnał GPS wykorzystywany przez pomocników SI."/>
+        <text name="precisionFarming_helpText_08_part02" text="Dopóki jeden z tych obiektów będzie na mapie, pomocnicy będą działać dokładniej, a tempo ich pracy wzrośnie o 11%."/>
+        <text name="ui_mapOverviewSoilPA" text="Rodzaje gleby"/>
+        <text name="ui_mapOverviewYieldPA" text="Plon"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Azot"/>
+        <text name="typeDesc_soilSampler" text="Próbnik gleby"/>
+        <text name="function_soilSampler" text="Próbnik gleby pozwala pobierać próbki z pól uprawnych w celu uzyskania bardziej szczegółowych danych na ich temat, przydatnych na późniejszych etapach produkcji rolnej."/>
+        <text name="action_takeSoilSample" text="Pobierz próbkę gleby"/>
+        <text name="action_sendSoilSamples" text="Wyślij próbki gleby do analizy"/>
+        <text name="info_numSamplesTaken" text="Pobrane próbki gleby: %d"/>
+        <text name="info_samplesSend" text="Teraz próbki gleby trafią do laboratorium, w którym zostaną poddane analizie. Wyniki pojawią się już wkrótce na mapie z rodzajami gleby."/>
+        <text name="info_samplesAnalysed" text="Próbki gleby zbadane"/>
+        <text name="pa_fieldInfo_soil" text="Gleba"/>
+        <text name="pa_fieldInfo_phValue" text="pH"/>
+        <text name="pa_fieldInfo_nValue" text="Azot"/>
+        <text name="pa_fieldInfo_perfect" text="Doskonale"/>
+        <text name="pa_fieldInfo_good" text="Dobrze"/>
+        <text name="pa_fieldInfo_ok" text="W porządku"/>
+        <text name="pa_fieldInfo_bad" text="Źle"/>
+        <text name="ui_precisionFarming_soilType_1" text="Piasek ilasty"/>
+        <text name="ui_precisionFarming_soilType_2" text="Piaszczysty ił"/>
+        <text name="ui_precisionFarming_soilType_3" text="Ił"/>
+        <text name="ui_precisionFarming_soilType_4" text="Ił pylasty"/>
+        <text name="pa_sampledArea" text="Próbka gleby pobrana"/>
+        <text name="ui_precisionFarming_outdatedData" text="Nieaktualne dane"/>
+        <text name="shopItem_rtkStation" text="Budynek ze stacją bazową RTK"/>
+        <text name="shopItem_garageRtkStation" text="Szopa ze stacją bazową RTK"/>
+        <text name="function_rtkStation" text="Stacja dostarczająca twoim pojazdom lepszy sygnał GPS. Dzięki temu pomocnicy SI dokładniej kierują maszynami i szybciej pracują."/>
+        <text name="hudExtension_headline_ph_lime" text="Wartość pH – użycie wapna"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Azot – użycie nawozu mineralnego"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Azot – użycie nawozu płynnego"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Azot – użycie gnojówki"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Azot – użycie obornika"/>
+        <text name="hudExtension_actualValue" text="Aktualnie
+%s"/>
+        <text name="hudExtension_newValue" text="Nowe (%s)"/>
+        <text name="hudExtension_targetReached" text="Cel osiągnięty
+%s"/>
+        <text name="hudExtension_applicationRate" text="Dawka:"/>
+        <text name="hudExtension_soilType" text="Gleba: %s"/>
+        <text name="hudExtension_unknown" text="Nieznane"/>
+        <text name="hudExtension_automaticShort" text="auto"/>
+        <text name="hudExtension_description_limeAuto" text="Zwiększenie pH do optymalnej wartości: %s (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Widoczna optymalna wartość pH: %s (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Użycie gnojówki zależnie od potencjału plonu z gleby (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Użycie obornika zależnie od potencjału plonu z gleby (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Zwiększenie ilości azotu do optymalnej wartości: %s (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Nie wykryto roślin. Najlepiej najpierw dokonaj zasiewu. Zastosuj domyślnie: %s."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Widoczna optymalna wartość: %s (%s)"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Nie wykryto roślin. Aby poznać zalecenie dotyczące nawożenia, najpierw dokonaj zasiewu. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Uprawiana roślina nie wymaga dodatkowego nawozu."/>
+        <text name="hudExtension_invalidValues" text="Jeszcze nie wykryto wartości"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Aktywuj automatyczną dawkę"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Dezaktywuj automatyczną dawkę"/>
+        <text name="action_toggleSprayAmountManual" text="Zmień dawkę"/>
+        <text name="soilStates_replaced" text="Przejdź do Rolnictwa precyzyjnego"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Zwiększ ilość rozsiewu"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Zmniejsz ilość rozsiewu"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Wł./wył. automatyczną ilość rozsiewu"/>
+    </texts>
+</l10n>

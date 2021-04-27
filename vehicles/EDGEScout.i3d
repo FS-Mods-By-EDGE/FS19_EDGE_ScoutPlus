@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="EDGEScout" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.2.2"/>
+  </Asset>
+
+  <Files>
+    <File fileId="17" filename="decals_diffuse.dds"/>
+    <File fileId="18" filename="decals_normal.dds"/>
+    <File fileId="19" filename="decals_specular.dds"/>
+    <File fileId="14" filename="isariaScoutGrid_diffuse.png"/>
+    <File fileId="15" filename="isariaScoutGrid_normal.png"/>
+    <File fileId="16" filename="isariaScoutGrid_specular.png"/>
+    <File fileId="9" filename="isariaScoutHoses_normal.png"/>
+    <File fileId="10" filename="isariaScoutHoses_specular.png"/>
+    <File fileId="2" filename="isariaScout_normal.png"/>
+    <File fileId="3" filename="isariaScout_specular.png"/>
+    <File fileId="4" filename="$data/shaders/vehicleShader.xml"/>
+    <File fileId="11" filename="$data/shared/assets/assetLibraryDecals_diffuse.png"/>
+    <File fileId="12" filename="$data/shared/assets/assetLibraryDecals_normal.png"/>
+    <File fileId="20" filename="$data/shared/assets/assetLibraryStickers_diffuse.png"/>
+    <File fileId="13" filename="$data/shared/clearPlastic_diffuse.png"/>
+    <File fileId="21" filename="$data/shared/default_normal.png"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="assetLibraryDecals_mat" materialId="4" customShaderId="4" customShaderVariation="Decal_colorMask">
+      <Texture fileId="11"/>
+      <Normalmap fileId="12"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
+      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
+      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="assetLibraryDecals_mat1" materialId="5" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Texture fileId="11"/>
+      <Normalmap fileId="12"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
+      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
+      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="assetLibraryStickers_mat" materialId="6" customShaderId="4" customShaderVariation="Decal">
+      <Texture fileId="20"/>
+      <Normalmap fileId="21"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+    </Material>
+    <Material name="clearPlastic_mat" materialId="7" alphaBlending="true" customShaderId="4" customShaderVariation="colorMask">
+      <Texture fileId="13"/>
+      <Normalmap fileId="2"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
+      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
+      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="decals_mat" materialId="8" customShaderId="4">
+      <Texture fileId="17"/>
+      <Normalmap fileId="18"/>
+      <Glossmap fileId="19"/>
+      <CustomParameter name="RDT" value="0 0 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+    </Material>
+    <Material name="isariaScout_mat" materialId="9" diffuseColor="0.494118 0.494118 0.494118 1" customShaderId="4" customShaderVariation="colorMask">
+      <Normalmap fileId="2"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.0353 0.2941 0.5373 0"/>
+      <CustomParameter name="colorMat1" value="0.2622 0.2622 0.2622 1"/>
+      <CustomParameter name="colorMat2" value="0.521 0 0 0"/>
+      <CustomParameter name="colorMat3" value="0 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat4" value="0.073 0.073 0.073 0"/>
+      <CustomParameter name="colorMat5" value="0.0353 0.2941 0.5373 32"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="isariaScoutGrid_mat" materialId="10" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Texture fileId="14"/>
+      <Normalmap fileId="15"/>
+      <Glossmap fileId="16"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat1" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat2" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat3" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat4" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat5" value="0.8632 0.8713 0.8713 8"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="isariaScoutGridBlack_mat" materialId="12" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Texture fileId="14"/>
+      <Normalmap fileId="15"/>
+      <Glossmap fileId="16"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat1" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat2" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat3" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat4" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat5" value="0.0161 0.0134 0.012 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="isariaScoutGridDesign_mat" materialId="11" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Texture fileId="14"/>
+      <Normalmap fileId="15"/>
+      <Glossmap fileId="16"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat1" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat2" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat3" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat4" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat5" value="0.924 0.8122 0.0023 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="isariaScoutGridWhite_mat" materialId="13" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Texture fileId="14"/>
+      <Normalmap fileId="15"/>
+      <Glossmap fileId="16"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat1" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat2" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat3" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat4" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat5" value="0.9157 0.9157 0.9157 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="isariaScoutHoses_mat" materialId="14" diffuseColor="0.521569 0.521569 0.521569 1" customShaderId="4" customShaderVariation="secondUV_colorMask">
+      <Normalmap fileId="9"/>
+      <Glossmap fileId="10"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.0094 0.0094 0.0094 5"/>
+      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
+      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+    <Material name="lambert1" materialId="15" diffuseColor="0.494118 0.494118 0.494118 1">
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="EDGEScout.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <Shape shapeId="1" name="isariaScout_main_component1" dynamic="true" compound="true" collisionMask="8194" clipDistance="300" nodeId="46" materialIds="15" castsShadows="true" receiveShadows="true" nonRenderable="true">
+      <Shape shapeId="2" name="isariaScout_vis" clipDistance="300" nodeId="47" materialIds="9" castsShadows="true" receiveShadows="true" skinBindNodeIds="47 62 63 64 65 66 71 73 79 80 81 106 107">
+        <TransformGroup name="attachable" nodeId="48">
+          <TransformGroup name="attacherJoint" translation="0 0.374134 0.272288" rotation="0 90 0" nodeId="49"/>
+          <TransformGroup name="topReferenceNode" translation="0 0.958361 0.277424" nodeId="50"/>
+          <TransformGroup name="support" nodeId="51">
+            <Shape shapeId="3" name="supportFeet" clipDistance="100" nodeId="52" materialIds="9" castsShadows="true" receiveShadows="true">
+              <Shape shapeId="4" name="colPart" translation="0 0.227349 0.298926" visibility="false" compoundChild="true" collisionMask="8194" density="0.001" nodeId="53" materialIds="15" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+            </Shape>
+          </TransformGroup>
+          <TransformGroup name="connectionHoses" nodeId="54">
+            <TransformGroup name="hydraulicIn01" translation="-0.298698 0.563924 0.346158" nodeId="55">
+              <Shape shapeId="5" name="hydraulic_detached" translation="0.188347 0.439317 -0.145349" clipDistance="300" nodeId="56" materialIds="14" castsShadows="true" receiveShadows="true">
+                <TransformGroup name="hydraulic_connector01" translation="-0.17944 0.340011 -0.0753585" rotation="82.4848 88.4179 -180" nodeId="57"/>
+                <TransformGroup name="hydraulic_connector02" translation="-0.180446 0.340075 -0.111464" rotation="145.293 87.2444 -117.158" nodeId="58"/>
+                <Shape shapeId="6" name="detail_mesh" translation="0.0296507 -0.0417857 0.0508908" clipDistance="300" nodeId="59" materialIds="9" castsShadows="true" receiveShadows="true"/>
+              </Shape>
+            </TransformGroup>
+            <TransformGroup name="hydraulicOut01" translation="-0.14323 0.578943 0.417917" rotation="0 -81.7836 0" nodeId="60"/>
+          </TransformGroup>
+        </TransformGroup>
+        <TransformGroup name="movingParts" nodeId="61">
+          <TransformGroup name="drillingUnit" clipDistance="300" nodeId="62">
+            <TransformGroup name="drillMotor" clipDistance="300" nodeId="63">
+              <TransformGroup name="drill" translation="-0.00199977 1.37312 -0.0728526" clipDistance="300" nodeId="64"/>
+            </TransformGroup>
+            <TransformGroup name="drillMotorHydraulic" translation="-0.0854998 1.72 -0.033612" clipDistance="300" nodeId="65">
+              <TransformGroup name="drillMotorHydraulicPunch" translation="0 -5.55112e-17 0" clipDistance="300" nodeId="66"/>
+              <TransformGroup name="drillHydraulicJoint" nodeId="67"/>
+              <Shape shapeId="7" name="hoses" clipDistance="300" nodeId="68" materialIds="14" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="8" name="holeDecal" translation="0.0854998 -0.000340673 -0.0379037" clipDistance="30" nodeId="69" materialIds="5" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+              <Shape shapeId="9" name="colPart03" translation="0.0854998 0.598865 -0.0267495" visibility="false" compoundChild="true" collisionMask="8194" density="0.001" nodeId="70" materialIds="15" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+            </TransformGroup>
+            <TransformGroup name="drillMotorHydraulicLock" translation="0.0598439 1.758 0.079748" clipDistance="300" nodeId="71"/>
+            <Shape shapeId="10" name="drillMotorHydraulicPunchLock" clipDistance="30" nodeId="72" materialIds="9" castsShadows="true" receiveShadows="true"/>
+            <TransformGroup name="sampleContainers" clipDistance="300" nodeId="73">
+              <TransformGroup name="sampleContainersHydraulicRef" translation="-0.442177 0.162334 -0.0205237" rotation="-180 -89.1 180" nodeId="74"/>
+              <Shape shapeId="11" name="soilSample01" translation="-0.22992 0.0337888 -0.152193" clipDistance="30" nodeId="75" materialIds="9" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="12" name="soilSample02" translation="-0.096761 0.0337888 -0.152193" clipDistance="30" nodeId="76" materialIds="9" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="13" name="soilSample03" translation="0.0364195 0.0337888 -0.152193" clipDistance="30" nodeId="77" materialIds="9" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="14" name="containers_alpha" clipDistance="300" nodeId="78" materialIds="7" castsShadows="true" receiveShadows="true"/>
+            </TransformGroup>
+            <TransformGroup name="sampleContainersHydraulic" translation="0.141744 0.162337 -0.0113507" rotation="-180 -89.1 180" clipDistance="300" nodeId="79">
+              <TransformGroup name="sampleContainersHydraulicPunch" translation="-2.80744e-09 -9.86593e-12 0.583994" clipDistance="300" nodeId="80"/>
+            </TransformGroup>
+            <TransformGroup name="backCover" translation="-4.8752e-20 0.197454 0.010116" clipDistance="300" nodeId="81">
+              <Shape shapeId="15" name="coverGrid" translation="4.8752e-20 0.176047 0.214532" clipDistance="300" nodeId="82" materialIds="10" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="16" name="logo" translation="0.000196457 1.25905 -0.236684" rotation="-1.41161e-05 3.9695e-06 9.24731e-06" scale="2.5 2.5 1" clipDistance="150" nodeId="83" materialIds="8" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="17" name="screw_decals" translation="4.8752e-20 0.176047 0.214532" clipDistance="30" nodeId="84" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+              <Shape shapeId="18" name="stickersDecal" clipDistance="30" nodeId="85" materialIds="6" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+              <Shape shapeId="15" name="coverGridDesign" translation="4.8752e-20 0.176047 0.214532" clipDistance="300" nodeId="86" materialIds="11" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="15" name="coverGridBlack" translation="4.8752e-20 0.176047 0.214532" clipDistance="300" nodeId="87" materialIds="12" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="15" name="coverGridWhite" translation="4.8752e-20 0.176047 0.214532" clipDistance="300" nodeId="88" materialIds="13" castsShadows="true" receiveShadows="true"/>
+            </TransformGroup>
+            <TransformGroup name="connectionHoses" nodeId="89">
+              <TransformGroup name="electric" translation="-0.223288 0.809977 0.163367" rotation="0 -82.3643 0" nodeId="90">
+                <Shape shapeId="19" name="electric_detached" translation="-6.87737e-18 -1.42109e-16 3.46051e-17" clipDistance="300" nodeId="91" materialIds="14" castsShadows="true" receiveShadows="true">
+                  <TransformGroup name="electric_connector" translation="0.032445 -0.14549 0.0571684" rotation="98.4252 -4.69986 -9.68754" nodeId="92"/>
+                </Shape>
+              </TransformGroup>
+            </TransformGroup>
+            <TransformGroup name="visuals" nodeId="93">
+              <Shape shapeId="20" name="grid" clipDistance="300" nodeId="94" materialIds="10" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="21" name="stickers_decal" translation="0 0.373501 0.224648" clipDistance="30" nodeId="95" materialIds="6" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+              <Shape shapeId="22" name="screws_decal" translation="0 0.373501 0.224648" clipDistance="30" nodeId="96" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+              <Shape shapeId="23" name="hose_mountings" translation="-0.0807008 0.961456 0.2517" clipDistance="300" nodeId="97" materialIds="9" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="20" name="gridDesign" clipDistance="300" nodeId="98" materialIds="11" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="20" name="gridBlack" clipDistance="300" nodeId="99" materialIds="12" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="20" name="gridWhite" clipDistance="300" nodeId="100" materialIds="13" castsShadows="true" receiveShadows="true"/>
+            </TransformGroup>
+            <TransformGroup name="collisions" nodeId="101">
+              <Shape shapeId="24" name="colPart01" translation="0 0.942328 0" visibility="false" compoundChild="true" collisionMask="8194" density="0.001" nodeId="102" materialIds="15" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+              <Shape shapeId="25" name="colPart02" translation="0 0.10019 -0.133278" visibility="false" compoundChild="true" collisionMask="8194" density="0.001" nodeId="103" materialIds="15" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+            </TransformGroup>
+            <TransformGroup name="drillUnitJoint" nodeId="104"/>
+            <TransformGroup name="drillHydraulicJointAnim" translation="0.000630112 1.63679 0.278591" nodeId="105"/>
+            <TransformGroup name="lockBolt01" translation="-0.1485 1.72 -0.166674" clipDistance="300" nodeId="106"/>
+            <TransformGroup name="lockBolt02" translation="-0.0176597 1.72784 -0.201797" clipDistance="300" nodeId="107"/>
+          </TransformGroup>
+        </TransformGroup>
+        <TransformGroup name="samplingNode" translation="0 0 -0.073856" nodeId="108"/>
+        <TransformGroup name="visuals" nodeId="109">
+          <Shape shapeId="26" name="screws_decal" translation="0 0.373501 0.224648" clipDistance="30" nodeId="110" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+          <Shape shapeId="27" name="hose_conenctors" translation="-0.0807008 0.961456 0.2517" clipDistance="300" nodeId="111" materialIds="9" castsShadows="true" receiveShadows="true"/>
+        </TransformGroup>
+        <TransformGroup name="rootJoint" nodeId="112"/>
+      </Shape>
+      <TransformGroup name="skinnedMeshes" nodeId="113">
+        <Shape shapeId="28" name="hoses01" translation="0 0.373501 0.224648" clipDistance="300" nodeId="114" materialIds="14" castsShadows="true" receiveShadows="true" skinBindNodeIds="112 104"/>
+        <Shape shapeId="29" name="hoses02" translation="-0.110352 1.00324 0.200809" clipDistance="300" nodeId="115" materialIds="14" castsShadows="true" receiveShadows="true" skinBindNodeIds="112 104 67 105"/>
+      </TransformGroup>
+    </Shape>
+  </Scene>
+
+  <UserAttributes>
+    <UserAttribute nodeId="67">
+      <Attribute name="liw" type="boolean" value="true"/>
+    </UserAttribute>
+    <UserAttribute nodeId="104">
+      <Attribute name="liw" type="boolean" value="false"/>
+    </UserAttribute>
+    <UserAttribute nodeId="105">
+      <Attribute name="liw" type="boolean" value="true"/>
+    </UserAttribute>
+    <UserAttribute nodeId="112">
+      <Attribute name="liw" type="boolean" value="false"/>
+    </UserAttribute>
+  </UserAttributes>
+
+</i3D>

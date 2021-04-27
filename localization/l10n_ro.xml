@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Agricultură de precizie"/>
+        <text name="ui_precisionFarming_laboratory" text="Laborator"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Laboratorul analizează %d mostre de sol."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Momentan nu există mostre de sol de analizat."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Analiză economică"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Parcela %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Parcelă suplimentară (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Valori de la ultima resetare"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Valori totale"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Afișează valori de la ultima resetare"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Afișează valori totale"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Total"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Resetează"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Mostre de sol:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Var:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Îngrășământ mineral:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Îngrășământ lichid:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Bălegar:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Îngrășământ semilichid:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Semințe:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Combustibil:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Întreținere vehicul:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="Ajutor IA:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Productivitate:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Costuri totale"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Venituri totale"/>
+        <text name="ui_precisionFarming_help" text="Ajutor"/>
+        <text name="ui_precisionFarming_resetYield" text="Golește harta productivității pe parcela %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Golește harta productivității pe parcela suplimentară"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Informații parcelă"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Distribuție sol"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Potențial productivitate așteptată"/>
+        <text name="precisionFarming_firstStart" text="Tocmai ai instalat modificarea Agricultură de precizie. Această modificare adaugă mai mult realism și aspecte ale agriculturii reale în Farming Simulator.
+
+Am adăugat câteva pagini noi în meniul de ajutor pentru a explica totul. Vrei să le deschizi acum?"/>
+        <text name="precisionFarming_helpHeader" text="Agricultură de precizie"/>
+        <text name="precisionFarming_helpTitle_01" text="Generalități"/>
+        <text name="precisionFarming_helpText_01_part01" text="Modificarea Agricultură de precizie adaugă mai mult realism și aspecte ale agriculturii reale în Farming Simulator. Obiectivul principal sunt diferitele tipuri de sol, care influențează creșterea recoltelor.
+
+Modificarea adaugă o hartă generală care este dedicată informațiilor noi, mai detaliate despre solul din anumite locuri de pe hartă. Această hartă poate fi accesată din fila de lângă harta lumii din meniu.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Tipuri de sol"/>
+        <text name="precisionFarming_helpText_02_part01" text="Această modificare împarte pământul în patru tipuri de sol. Fiecare tip de sol are propriile caracteristici, care influențează creșterea recoltei și, în cele din urmă, productivitatea. Drept urmare, fiecare tip de sol are nevoie de un tratament special pentru a obține o productivitate maximă a parcelei."/>
+        <text name="precisionFarming_helpText_02_part02" text="Tipuri de sol:
+– nisip argilos
+– argilă nisipoasă
+– argilă
+– argilă sedimentată "/>
+        <text name="precisionFarming_helpTitle_03" text="Eșantionarea solului"/>
+        <text name="precisionFarming_helpText_03_part01" text="Pentru a determina ce tip de sol se găsește pe parcelă, trebuie mai întâi să analizezi solul. Poți face acest lucru cu un dispozitiv de eșantionare a solului, cum ar fi ISARIA SCOUT, care este disponibil în magazin. Condu în mai multe locuri de pe parcelă cu dispozitivul de eșantionare a solului. Ia mai multe mostre de sol până când parcela este complet acoperită cu roșu închis pe harta solurilor. Această culoare indică locurile din care au fost luate deja mostre."/>
+        <text name="precisionFarming_helpText_03_part02" text="Apoi, poți trimite mostrele de sol la laborator pentru analiză. Câteva minute mai târziu, vei vedea rezultatele pe harta solurilor. În plus, poți vedea și harta pH-ului și azotului."/>
+        <text name="precisionFarming_helpTitle_04" text="Valoarea pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Lângă harta solurilor, poți găsi harta valorilor pH. Aceasta indică caracterul acid sau bazic al solului. Valoarea pH trebuie să se încadreze mereu în gama optimă în funcție de tipul de sol.
+
+Valorile pH țintă pentru fiecare tip de sol:
+– nisip argilos 6,0
+– argilă nisipoasă: 6,5
+– argilă: 6,75
+– argilă sedimentată: 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Valoarea pH poate fi crescută aplicând var pe parcelă. Această activitate este recomandată după fiecare trei recoltări. În mod implicit, distribuitorul de var ajustează automat rata de aplicare, astfel încât să obțină nivelul optim al pH-ului, însă există și opțiunea de a o controla manual. Dacă valoarea pH nu este la nivelul optim, productivitatea scade. În funcție de tipul de sol, nivelul pH-ului scade după fiecare recoltare."/>
+        <text name="precisionFarming_helpTitle_05" text="Valoarea azotului"/>
+        <text name="precisionFarming_helpText_05_part01" text="Lângă harta pH-ului, poți găsi harta azotului Aceasta indică nivelul actual de azot din sol. Nivelul optim al azotului depinde de cultura plantată și de tipul solului. Mergând pe parcelă și analizând caseta „Informații parcelă”, poți vedea nivelul actual și cel țintă de azot dintr-un anumit loc de pe parcelă."/>
+        <text name="precisionFarming_helpText_05_part02" text="Nivelul de azot poate fi crescut aplicând îngrășământ sau bălegar. Îngrășământul semilichid sau bălegarul vor crește nivelul de azot cu o valoare fixă, în funcție de tipul solului. Se recomandă să faci această activitate înainte de pregătirea parcelei pentru următoarea semănare. Îngrășământul lichid și mineral ajustează automat nivelul de azot conform cerințelor culturii, dacă aceasta este deja plantată. Această activitate trebuie realizată în primele etape de creștere, după semănarea culturii. Poți controla rata de aplicare și manual."/>
+        <text name="precisionFarming_helpTitle_06" text="Harta productivității"/>
+        <text name="precisionFarming_helpText_06_part01" text="Pe harta productivității, poți vedea productivitatea din anumite locuri de pe parcelă. O poți folosi pentru a analiza apoi parcela."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Analiză economică"/>
+        <text name="precisionFarming_helpText_07_part01" text="Pentru a vedea o analiză economică a fiecărei parcele, poți da clic pe fiecare parcelă pe pagina „Agricultură de precizie”. Astfel, se va deschide o fereastră care prezintă costurile, veniturile și soldul total al parcelei."/>
+        <text name="precisionFarming_helpText_07_part02" text="Poți să vezi fie valorile totale ale parcelei, fie o statistică de la ultima apăsare a butonului de resetare. În acest fel, ai posibilitatea de a urmări datele de-a lungul mai multor recoltări."/>
+        <text name="precisionFarming_helpTitle_08" text="Stație RTK"/>
+        <text name="precisionFarming_helpText_08_part01" text="Există două clădiri noi în magazin care au o antenă RTK pe acoperiș. Această antenă oferă un semnal GPS mai bun pentru ajutoare."/>
+        <text name="precisionFarming_helpText_08_part02" text="Atât timp cât una dintre noile clădiri este plasată pe hartă, precizia ajutoarelor crește, iar aceștia lucrează cu până la 11% mai rapid decât înainte."/>
+        <text name="ui_mapOverviewSoilPA" text="Tipuri de sol"/>
+        <text name="ui_mapOverviewYieldPA" text="Productivitate"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Azot"/>
+        <text name="typeDesc_soilSampler" text="unitate de eșantionare a solului"/>
+        <text name="function_soilSampler" text="Cu o unitate de eșantionare a solului, poți lua mostre de sol pentru a avea informații mai detaliate despre o parcelă pentru etapele de lucru viitoare."/>
+        <text name="action_takeSoilSample" text="Ia mostra de sol"/>
+        <text name="action_sendSoilSamples" text="Trimite mostrele de sol la analize"/>
+        <text name="info_numSamplesTaken" text="Mostre de sol luate: %d"/>
+        <text name="info_samplesSend" text="Mostrele de sol sunt acum trimise la un laborator pentru analize. Vei vedea rezultatele pe harta tipurilor de sol în curând."/>
+        <text name="info_samplesAnalysed" text="Mostre de sol analizate"/>
+        <text name="pa_fieldInfo_soil" text="Sol"/>
+        <text name="pa_fieldInfo_phValue" text="Valoarea pH"/>
+        <text name="pa_fieldInfo_nValue" text="Azot"/>
+        <text name="pa_fieldInfo_perfect" text="Perfectă"/>
+        <text name="pa_fieldInfo_good" text="Bună"/>
+        <text name="pa_fieldInfo_ok" text="OK"/>
+        <text name="pa_fieldInfo_bad" text="Rea"/>
+        <text name="ui_precisionFarming_soilType_1" text="Nisip argilos"/>
+        <text name="ui_precisionFarming_soilType_2" text="Argilă nisipoasă"/>
+        <text name="ui_precisionFarming_soilType_3" text="Argilă"/>
+        <text name="ui_precisionFarming_soilType_4" text="Argilă sedimentată"/>
+        <text name="pa_sampledArea" text="Mostră de sol luată"/>
+        <text name="ui_precisionFarming_outdatedData" text="Date învechite"/>
+        <text name="shopItem_rtkStation" text="Clădire cu stație principală RTK"/>
+        <text name="shopItem_garageRtkStation" text="Șură cu stație principală RTK"/>
+        <text name="function_rtkStation" text="Această stație le oferă vehiculelor tale un semnal GPS mai bun. Astfel, ajutoarele IA conduc mai precis și lucrează mai repede."/>
+        <text name="hudExtension_headline_ph_lime" text="Valoarea pH – aplicare var"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Azot – aplicare îngrășământ mineral"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Azot – aplicare îngrășământ lichid"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Azot – aplicare îngrășământ semilichid"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Azot – aplicare bălegar"/>
+        <text name="hudExtension_actualValue" text="Actual
+%s"/>
+        <text name="hudExtension_newValue" text="Nou: %s"/>
+        <text name="hudExtension_targetReached" text="Obiectiv atins
+%s"/>
+        <text name="hudExtension_applicationRate" text="Rată de aplicare:"/>
+        <text name="hudExtension_soilType" text="Sol: %s"/>
+        <text name="hudExtension_unknown" text="Necunoscut"/>
+        <text name="hudExtension_automaticShort" text="auto."/>
+        <text name="hudExtension_description_limeAuto" text="Creșterea ph-ului la valoarea optimă pentru „%s” (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Afișarea valorii optime a pH-ului pentru „%s” (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Aplicarea îngrășământului semilichid în funcție de productivitatea solului (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Aplicarea bălegarului în funcție de productivitatea solului (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Creșterea nivelului de azot la valoarea optimă pentru „%s” pe „%s”"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Nicio cultură detectată. Seamănă întâi pentru rezultate optime. Aplică valoarea implicită pentru „%s”."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Afișarea valorii optime pentru „%s” pe „%s”"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Nicio cultură detectată. Seamănă întâi pentru a vedea recomandări de fertilizare. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Recolta nu mai are nevoie de îngrășământ."/>
+        <text name="hudExtension_invalidValues" text="Nicio valoare detectată încă"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Activează rata automată de aplicare"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Dezactivează rata automată de aplicare"/>
+        <text name="action_toggleSprayAmountManual" text="Schimbă rata de aplicare"/>
+        <text name="soilStates_replaced" text="Vezi agricultura de precizie"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Crește cantitatea pulverizată"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Scade cantitatea pulverizată"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Comută pulverizarea automată"/>
+    </texts>
+</l10n>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="精细农作"/>
+        <text name="ui_precisionFarming_laboratory" text="实验室"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="实验室正在分析%d土壤样本。"/>
+        <text name="ui_precisionFarming_laboratory_idle" text="目前没有土壤样本可供分析。"/>
+        <text name="ui_precisionFarming_economicAnalysis" text="经济分析"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="田地%d (%.2f公顷)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="额外田地 (%.2f公顷)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="自上次重置以来的值"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="总值"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="显示自重置以来的值"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="显示总值"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="合计"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="重置"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="土壤样本："/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="石灰："/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="矿物肥料："/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="液态肥料："/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="粪肥："/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="水肥："/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="种子："/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="燃料："/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="载具维护："/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="人工智能帮手："/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="产量："/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="总花费"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="总收入"/>
+        <text name="ui_precisionFarming_help" text="帮助"/>
+        <text name="ui_precisionFarming_resetYield" text="清空田地%d上的产量图"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="清空额外田地上的产量图"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="田地信息"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="土壤分布"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="预期产量潜力"/>
+        <text name="precisionFarming_firstStart" text="您刚刚安装了精细农作模组。
+这个模组为《模拟农场》增添了更多的现实感和真实务农的诸多方面。
+我们已在帮助菜单中添加了一些新的页面来解释所有的一切。
+您想现在打开它们吗？"/>
+        <text name="precisionFarming_helpHeader" text="精细农作"/>
+        <text name="precisionFarming_helpTitle_01" text="一般"/>
+        <text name="precisionFarming_helpText_01_part01" text="这个精细农作模组为《模拟农场》增添了更多的现实感和真实务农的诸多方面。
+主要关注点是影响作物生长的不同土壤类型。
+这个模组增加了一个概况图，专门用于显示地图上特定地点的新的、更详细的土壤信息。
+您可以通过菜单中世界地图旁边的选项卡访问概况图。 "/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="土壤类型"/>
+        <text name="precisionFarming_helpText_02_part01" text="这个模组将土地分成四种土壤。
+每种土壤类型都有自己的特点，影响作物生长，最终影响产量。
+因此，每种土壤类型都需要特殊处理，以获得最大的田间产量。"/>
+        <text name="precisionFarming_helpText_02_part02" text="土壤类型：
+- 壤质砂土
+- 砂质壤土
+- 壤土
+- 粉质粘土 "/>
+        <text name="precisionFarming_helpTitle_03" text="土壤取样"/>
+        <text name="precisionFarming_helpText_03_part01" text="您必须首先分析土壤，以确定哪种土壤类型位于田地的哪个位置。
+这可以通过土壤取样装置来完成，例如商店里出售的ISARIA SCOUT。
+将土壤取样装置开到田间的多个位置。采集多个土壤样本，
+直到土壤图上的田地完全覆盖为暗红色。
+这种颜色表示已在该处完成取样。"/>
+        <text name="precisionFarming_helpText_03_part02" text="之后您可以把土壤样本送到实验室进行分析。
+几分钟后，您就会在土壤图上看到结果。
+此外，您现在还能看到酸碱值和氮值图。"/>
+        <text name="precisionFarming_helpTitle_04" text="酸碱值"/>
+        <text name="precisionFarming_helpText_04_part01" text="在土壤图旁边，您可以找到酸碱值图。这表明了土壤的酸性或碱性。
+根据土壤类型，酸碱值应始终在最佳目标范围内。
+每种土壤类型的目标酸碱值：
+- 壤质砂土：6.0
+- 砂质壤土：6.5
+- 壤土：6.75
+- 粉质粘土：7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="在田里撒石灰可以提高酸碱值。
+推荐于每三次收割后施行一次。
+默认情况下，石灰喷洒机会自动调整至最佳酸碱目标水平所需的施用量，
+但您也可以选择手动控制。如果酸碱值不在最佳水平，则产量会减少。
+根据土壤类型，酸碱值水平将于每次收割后降低。"/>
+        <text name="precisionFarming_helpTitle_05" text="氮值"/>
+        <text name="precisionFarming_helpText_05_part01" text="在酸碱值图旁边，您可以找到氮值图。
+这表明了土地当前的氮值水平。
+氮值的最佳水平取决于种植的作物和土壤类型。
+于田间查看显示的“田地信息”可以得知特定位置当前的氮值水平和目标氮值水平。"/>
+        <text name="precisionFarming_helpText_05_part02" text="施肥料或粪肥均可提高氮值水平。
+水肥或粪肥将根据土壤类型增加固定的氮值水平。
+建议在为下次播种的整地前施行。如果作物已被种植，
+矿物肥料和液态肥料会根据作物需求自动调整氮值水平。
+应在播种作物后的第一个生长状态内完成此操作。您可以随时手动控制施用量。"/>
+        <text name="precisionFarming_helpTitle_06" text="产量图"/>
+        <text name="precisionFarming_helpText_06_part01" text="您可以在产量图中看到田间特定位置的产量。
+这可用于以后分析田地。"/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="经济分析"/>
+        <text name="precisionFarming_helpText_07_part01" text="您可以单击“精细农作”页面中的每片田地，
+以获得每片田地的经济分析。这将打开一个列出了该田地的花费、收入和总结余的窗口。"/>
+        <text name="precisionFarming_helpText_07_part02" text="您可以查看田地的总值，也可以查看自上次按下重置按钮以来的统计信息。
+这样您就可以在多次收割期间跟踪数据。"/>
+        <text name="precisionFarming_helpTitle_08" text="实时动态定位站"/>
+        <text name="precisionFarming_helpText_08_part01" text="商店里推出了两种顶部有实时动态定位天线的新建筑。
+这个天线能为帮手提供更好的全球定位系统信号。"/>
+        <text name="precisionFarming_helpText_08_part02" text="只要地图上置有一栋这样的新建筑，帮手的准确性就会提高，
+其工作速度会比以前加快11%。"/>
+        <text name="ui_mapOverviewSoilPA" text="土壤类型"/>
+        <text name="ui_mapOverviewYieldPA" text="产量"/>
+        <text name="ui_mapOverviewPHPA" text="酸碱值"/>
+        <text name="ui_mapOverviewNitrogen" text="氮值"/>
+        <text name="typeDesc_soilSampler" text="土壤取样装置"/>
+        <text name="function_soilSampler" text="有了土壤取样装置，您就能采集土壤样本，获得关于某片田地的更多详情，以备将来进行耕作。"/>
+        <text name="action_takeSoilSample" text="采集土壤样本"/>
+        <text name="action_sendSoilSamples" text="把土壤样本送去分析"/>
+        <text name="info_numSamplesTaken" text="已采集的土壤样本：%d"/>
+        <text name="info_samplesSend" text="土壤样本已被送往实验室进行分析。您很快就能在土壤类型图上看到结果。"/>
+        <text name="info_samplesAnalysed" text="已分析的土壤样本"/>
+        <text name="pa_fieldInfo_soil" text="土壤"/>
+        <text name="pa_fieldInfo_phValue" text="酸碱值"/>
+        <text name="pa_fieldInfo_nValue" text="氮值"/>
+        <text name="pa_fieldInfo_perfect" text="完美"/>
+        <text name="pa_fieldInfo_good" text="很好"/>
+        <text name="pa_fieldInfo_ok" text="还行"/>
+        <text name="pa_fieldInfo_bad" text="糟糕"/>
+        <text name="ui_precisionFarming_soilType_1" text="壤质砂土"/>
+        <text name="ui_precisionFarming_soilType_2" text="砂质壤土"/>
+        <text name="ui_precisionFarming_soilType_3" text="壤土"/>
+        <text name="ui_precisionFarming_soilType_4" text="粉质粘土"/>
+        <text name="pa_sampledArea" text="已采集土壤样本"/>
+        <text name="ui_precisionFarming_outdatedData" text="数据已过期"/>
+        <text name="shopItem_rtkStation" text="带实时动态定位基站的建筑"/>
+        <text name="shopItem_garageRtkStation" text="带实时动态定位基站的小屋"/>
+        <text name="function_rtkStation" text="此基站能为您的载具提供更好的全球定位系统信号。有助于您的人工智能帮手更精确地驾驶和更快地工作。"/>
+        <text name="hudExtension_headline_ph_lime" text="酸碱值 - 施加石灰"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="氮值 - 施加矿物肥料"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="氮值 - 施加液态肥料"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="氮值 - 施加水肥"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="氮值 - 施加粪肥"/>
+        <text name="hudExtension_actualValue" text="当前
+%s"/>
+        <text name="hudExtension_newValue" text="新：
+%s"/>
+        <text name="hudExtension_targetReached" text="已达到目标%s"/>
+        <text name="hudExtension_applicationRate" text="施用量："/>
+        <text name="hudExtension_soilType" text="土壤：%s"/>
+        <text name="hudExtension_unknown" text="未知"/>
+        <text name="hudExtension_automaticShort" text="自动"/>
+        <text name="hudExtension_description_limeAuto" text="将酸碱值增加到“%s”的最佳值 (%s)"/>
+        <text name="hudExtension_description_limeManual" text="显示“%s”(%s)的最佳酸碱值"/>
+        <text name="hudExtension_description_slurryAuto" text="水肥施用量基于土壤产量潜力 (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="粪肥施用量基于土壤产量潜力 (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="将氮值水平增加到“%s”的最佳值 (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="未检测到作物。先播种以获得最佳结果。施用“%s”的默认值。"/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="在“%s”上显示“%s”的最佳值"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="未检测到作物。先播种再查看施肥推荐。 "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="作物不需要额外施肥。"/>
+        <text name="hudExtension_invalidValues" text="尚未检测到值"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="启用自动施用量"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="停用自动施用量"/>
+        <text name="action_toggleSprayAmountManual" text="更改施用量"/>
+        <text name="soilStates_replaced" text="查看精细农作"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="增加喷洒量"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="减少喷洒量"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="切换自动喷洒量"/>
+    </texts>
+</l10n>

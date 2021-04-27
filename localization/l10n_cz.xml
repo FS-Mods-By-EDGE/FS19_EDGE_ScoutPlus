@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Přesné farmaření"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratoř"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Laboratoř analyzuje %d vzorky půdy."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Žádné vzorky k analýze."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Hospodářská analýza"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Pole %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Další pole (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Hodnota od posledního resetování"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Celkové hodnoty"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Zobrazit hodnoty od resetování"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Zobrazit celkové hodnoty"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Celkem"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Resetovat"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Vzorky půdy:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Vápno:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Minerální hnojivo:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Tekuté hnojivo:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Hnůj:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Močůvka:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Osivo:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Palivo:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Údržba vozidel:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="AI pracovník:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Úroda:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Celkové náklady"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Celkový zisk"/>
+        <text name="ui_precisionFarming_help" text="Nápověda"/>
+        <text name="ui_precisionFarming_resetYield" text="Vymazat výnosovou mapu na poli %d"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Vymazat výnosovou mapu na dalším poli "/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Informace o poli"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Rozložení půdy"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Očekávaný výnosový potenciál"/>
+        <text name="precisionFarming_firstStart" text="Modifikace Přesné farmaření. Tato modifikace dodává hře Farming Simulator silnější element věrohodnosti a realistického farmaření. Vše je vysvětleno na nových stránkách zařazených do nabídky Nápovědy.
+
+Chceš je teď otevřít?"/>
+        <text name="precisionFarming_helpHeader" text="Přesné farmaření"/>
+        <text name="precisionFarming_helpTitle_01" text="Obecné"/>
+        <text name="precisionFarming_helpText_01_part01" text="Modifikace Přesné farmaření dodává hře Farming Simulator silnější element věrohodnosti a realistického farmaření. Důraz se klade na různé typy půdy a to, jak ovlivňují růst plodin.
+
+Modifikace do hry přidává přehledovou mapu obsahující nové, podrobnější informace o půdě na konkrétních místech. Tuto mapu lze zobrazit na záložce vedle mapy světa v příslušné nabídce.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Půdní typ"/>
+        <text name="precisionFarming_helpText_02_part01" text="Tato modifikace rozděluje půdu na čtyři různé typy. Každý typ má jedinečné vlastnosti, které ovlivňují růst plodin a ve výsledku i výnos. Aby byl výnos maximální, vyžaduje každý půdní typ tedy vyžaduje zvláštní zacházení."/>
+        <text name="precisionFarming_helpText_02_part02" text="Půdní typy:
+- Hlinitopísčitý
+- Písčitohlinitý
+- Hlinitý
+- Bahnitý jíl "/>
+        <text name="precisionFarming_helpTitle_03" text="Vzorky půdy"/>
+        <text name="precisionFarming_helpText_03_part01" text="Ke zjištění půdního typu daného pole je třeba nejprve půdu zanalyzovat. To lze provést zařízením k odebírání vzorků půdy, jako je ISARIA SCOUT (k dostání v obchodu). Doprav zařízení na odebírání vzorků na různá místa na poli. Odeber tolik vzorků, až bude pole na půdní mapě celé zabarveno červeně. Tato barva označuje, kde byly vzorky již odebrány."/>
+        <text name="precisionFarming_helpText_03_part02" text="Poté můžeš vzorky poslat do laboratoře k analýze. Výsledky se zobrazí na půdní mapě o pár minut později. Navíc také můžeš na speciální zobrazit údaje o pH a obsahu dusíku."/>
+        <text name="precisionFarming_helpTitle_04" text="Hodnota pH"/>
+        <text name="precisionFarming_helpText_04_part01" text="Vedle půdní mapy najdeš mapu s hodnotami pH. Tento údaj označuje míru kyselosti nebo zásaditosti půdy. Hodnota pH by se neměla vychýlit z optimálního rozsahu v závislosti na daném půdním typu.
+
+Cílové hodnoty pH dle půdního typu:
+- Hlinitopísčitá: 6.0
+- Písčitohlinitá: 6.5
+- Hlinitá: 6.75
+- Bahnitý jíl: 7.0"/>
+        <text name="precisionFarming_helpText_04_part02" text="Hodnotu pH pole lze zvyšovat použitím vápna. Tento postup se doporučuje vždy po každé třetí sklizni. Rozhazovač vápna ve výchozím nastavení vápno dávkuje automaticky vápno s ohledem na požadovanou cílovou hodnotu pH, ale lze ho ovládat i ručně. Jiná než optimální hodnota pH přispívá ke snížení výnosu. Hodnota pH se v závislosti na půdním typu snižuje po každé sklizni."/>
+        <text name="precisionFarming_helpTitle_05" text="Obsah dusíku"/>
+        <text name="precisionFarming_helpText_05_part01" text="Vedle mapy pH najdeš mapu zobrazující s obsahem dusíku. Na ní je zobrazen aktuální obsah dusíku v půdě. Optimální obsah dusíku v půdě závisí na zasazené plodině a půdním typu. Když vejdeš na pole a otevřeš „Informace o poli“, uvidíš aktuální a cílové hodnoty obsahu dusíku na konkrétním místě na poli."/>
+        <text name="precisionFarming_helpText_05_part02" text="Obsah dusíku lze zvýšit použitím hnojiva nebo hnoje. Močůvka a hnůj zvyšují úroveň obsahu dusíku v půdě o pevnou hodnotu v závislosti na půdním typu. Tento postup se doporučuje provést před přípravou pole na příští orbu. Je-li pole už osázené, upravují minerální nebo tekutá hnojiva obsah dusíku automaticky s ohledem na potřeby plodiny. Toto se provádí obvykle v první fázi růstu po zasazení. Dávkování lze vždy nastavit ručně."/>
+        <text name="precisionFarming_helpTitle_06" text="Mapa výnosu"/>
+        <text name="precisionFarming_helpText_06_part01" text="Na mapě výnosu vidíš výnos rozdělený dle konkrétních míst na poli. Tento údaj můžeš později použít k analýze pole."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Hospodářská analýza"/>
+        <text name="precisionFarming_helpText_07_part01" text="Hospodářskou analýzu provedeš kliknutím na dané pole na stránce „Přesného farmaření“. Otevře se okno se soupisem hodnot nákladů, zisků a celkového zůstatku příslušných k danému poli."/>
+        <text name="precisionFarming_helpText_07_part02" text="Na výběr máš buď zobrazení celkových hodnot, nebo statistik od posledního resetování. Můžeš tak sledovat data z více sklizní."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK stanice"/>
+        <text name="precisionFarming_helpText_08_part01" text="V obchodě jsou nyní k dispozici dvě nové budovy s RTK anténou. Tato anténa dodává počítačovým pomocníkům lepší signál GPS."/>
+        <text name="precisionFarming_helpText_08_part02" text="Každý taková budova umístěná na mapě zvyšuje přesnost pomocníků a zrychluje jejich práci o 11 %."/>
+        <text name="ui_mapOverviewSoilPA" text="Půdní typy"/>
+        <text name="ui_mapOverviewYieldPA" text="Výnos"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Dusík"/>
+        <text name="typeDesc_soilSampler" text="zařízení pro odebírání vzorků"/>
+        <text name="function_soilSampler" text="Zařízení pro odebírání vzorků slouží k odebírání vzorků půdy za účelem získání podrobnějších informací o daném poli a naplánování práce."/>
+        <text name="action_takeSoilSample" text="Odebrat vzorek půdy"/>
+        <text name="action_sendSoilSamples" text="Odeslat vzorek půdy k analýze"/>
+        <text name="info_numSamplesTaken" text="Vzorek půdy odebrán: %d"/>
+        <text name="info_samplesSend" text="Vzorky jsou teď odeslané do laboratoře k analýze. Výsledky se brzy zobrazí na mapě typů půdy. Výsledky se brzy zobrazí na půdní mapě."/>
+        <text name="info_samplesAnalysed" text="Analyzované vzorky půdy"/>
+        <text name="pa_fieldInfo_soil" text="Půda"/>
+        <text name="pa_fieldInfo_phValue" text="Hodnota pH"/>
+        <text name="pa_fieldInfo_nValue" text="Dusík"/>
+        <text name="pa_fieldInfo_perfect" text="Perfektní"/>
+        <text name="pa_fieldInfo_good" text="Dobré"/>
+        <text name="pa_fieldInfo_ok" text="Ok"/>
+        <text name="pa_fieldInfo_bad" text="Špatné"/>
+        <text name="ui_precisionFarming_soilType_1" text="Hlinitopísčitá"/>
+        <text name="ui_precisionFarming_soilType_2" text="Písčitohlinitá"/>
+        <text name="ui_precisionFarming_soilType_3" text="Hlinitá"/>
+        <text name="ui_precisionFarming_soilType_4" text="Bahnitý jíl"/>
+        <text name="pa_sampledArea" text="Vzorek půdy odebrán"/>
+        <text name="ui_precisionFarming_outdatedData" text="Zastaralá data"/>
+        <text name="shopItem_rtkStation" text="Budova s RTK stanicí"/>
+        <text name="shopItem_garageRtkStation" text="Stodola s RTK stanicí"/>
+        <text name="function_rtkStation" text="Tato stanice poskytuje tvým vozidlům lepší signál GPS. Ten umožňuje počítačovým pomocníků pracovat přesněji a rychleji."/>
+        <text name="hudExtension_headline_ph_lime" text="Hodnota pH - použití vápna"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Dusík - použití minerálního hnojiva"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Dusík - použití tekutého hnojiva"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Dusík - použití močůvky"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Dusík - použití mrvy"/>
+        <text name="hudExtension_actualValue" text="Aktuální
+%s"/>
+        <text name="hudExtension_newValue" text="Nová: %s"/>
+        <text name="hudExtension_targetReached" text="Dosažen cíl
+%s"/>
+        <text name="hudExtension_applicationRate" text="Dávkování:"/>
+        <text name="hudExtension_soilType" text="Půda: %s"/>
+        <text name="hudExtension_unknown" text="Neznámo"/>
+        <text name="hudExtension_automaticShort" text="auto"/>
+        <text name="hudExtension_description_limeAuto" text="Zvyšuje pH pro dosažení optimální hodnoty pro ‚%s‘ (%s)"/>
+        <text name="hudExtension_description_limeManual" text="Zobrazuje optimální hodnotu pH pro ‚%s‘ (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Aplikuje množství močůvky v závislosti na výnosovém potenciálu půdy (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Aplikuje množství mrvy v závislosti na výnosovém potenciálu půdy (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="Zvyšuje obsah dusíku pro dosažení optimální hodnoty pro ‚%s‘ na ‚%s‘"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Nenalezena žádná plodina. Pro nejlepší výsledky nejprve zasej. Použít pro ‚%s‘ výchozí hodnotu."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="Zobrazuje optimální hodnotu pro ‚%s‘ na ‚%s‘"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Nenalezena žádná plodina. Doporučení ohledně hnojiva lze zobrazit až po osázení. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Plodina nevyžaduje další hnojivo."/>
+        <text name="hudExtension_invalidValues" text="Zatím nenalezeny žádné hodnoty"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Zapnout automatické dávkování"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Vypnout automatické dávkování"/>
+        <text name="action_toggleSprayAmountManual" text="Změnit dávkování"/>
+        <text name="soilStates_replaced" text="Viz Přesné farmaření"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Zvýšit množství postřiku"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Snížit množství postřiku"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Přepínač automatické množství postřiku"/>
+    </texts>
+</l10n>

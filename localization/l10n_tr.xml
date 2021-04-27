@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <texts>
+        <text name="ui_precisionFarming_header" text="Hassas Tarım"/>
+        <text name="ui_precisionFarming_laboratory" text="Laboratuvar"/>
+        <text name="ui_precisionFarming_laboratory_analyse" text="Laboratuvar %d toprak numunesi analiz ediyor."/>
+        <text name="ui_precisionFarming_laboratory_idle" text="Şu anda analiz edecek toprak numunesi yok."/>
+        <text name="ui_precisionFarming_economicAnalysis" text="Ekonomik Analiz"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderField" text="Tarla %d (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderAdditionalField" text="Ek Tarla (%.2f ha)"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesPeriod" text="Son Sıfırlamadan Bu Yana Değerler"/>
+        <text name="ui_precisionFarming_economicAnalysisHeaderValuesTotal" text="Toplam Değerler"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonPeriod" text="Sıfırlamadan Bu Yana Alınan Değerleri Göster"/>
+        <text name="ui_precisionFarming_economicAnalysisButtonTotal" text="Toplam Değerleri Göster"/>
+        <text name="ui_precisionFarming_economicAnalysisTotal" text="Toplam"/>
+        <text name="ui_precisionFarming_economicAnalysisReset" text="Sıfırla"/>
+        <text name="ui_precisionFarming_economicAnalysisSoilSamples" text="Toprak Numuneleri:"/>
+        <text name="ui_precisionFarming_economicAnalysisLime" text="Kireç:"/>
+        <text name="ui_precisionFarming_economicAnalysisFertilizer" text="Mineral Gübre:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidFertilizer" text="Sıvı Gübre:"/>
+        <text name="ui_precisionFarming_economicAnalysisManure" text="Doğal Gübre:"/>
+        <text name="ui_precisionFarming_economicAnalysisLiquidManure" text="Bulamaç:"/>
+        <text name="ui_precisionFarming_economicAnalysisSeeds" text="Tohumlar:"/>
+        <text name="ui_precisionFarming_economicAnalysisFuel" text="Yakıt:"/>
+        <text name="ui_precisionFarming_economicAnalysisVehicleMaintenance" text="Araç Bakımı:"/>
+        <text name="ui_precisionFarming_economicAnalysisAIHelperCosts" text="YZ İşçi:"/>
+        <text name="ui_precisionFarming_economicAnalysisYield" text="Verim:"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalCosts" text="Toplam Masraf"/>
+        <text name="ui_precisionFarming_economicAnalysisTotalEarnings" text="Toplam Kazanç"/>
+        <text name="ui_precisionFarming_help" text="Yardım"/>
+        <text name="ui_precisionFarming_resetYield" text="%d Tarlasının Verim Haritasını Temizle"/>
+        <text name="ui_precisionFarming_resetYieldAdditionalField" text="Ek Tarlanın Verim Haritasını Temizle"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_header" text="Tarla Bilgisi"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_soilDis" text="Toprak Dağılımı"/>
+        <text name="ui_precisionFarming_fieldBuyInfo_yieldPot" text="Beklenen Verim Potansiyeli"/>
+        <text name="precisionFarming_firstStart" text="Hassas Tarım Modu yüklendi. Bu mod Farming Simulator'a daha fazla gerçeklik ve gerçek tarımcılığın farklı unsurlarını ekler.
+
+Her şeyi açıklamak üzere Yardım Menüsüne birkaç yeni sayfa ekledik. Bunları şimdi açmak istiyor musun?"/>
+        <text name="precisionFarming_helpHeader" text="Hassas Tarım"/>
+        <text name="precisionFarming_helpTitle_01" text="Genel"/>
+        <text name="precisionFarming_helpText_01_part01" text="Bu Hassas Tarım modu Farming Simulator'a daha fazla gerçeklik ve gerçek tarımcılığın farklı unsurlarını ekler. Öncelikli olarak ekinlerin büyümesini etkileyen farklı toprak tiplerine odaklanır.
+
+Bu mod, haritadaki belirli noktalarda yer alan toprak hakkında yeni ve daha ayrıntılı bilgilere odaklanan bir genel bakış haritası ekler. Bu haritaya menüdeki dünya haritasının yanındaki sekmeden erişilebilir.
+
+
+"/>
+        <text name="precisionFarming_helpText_01_part02" text=""/>
+        <text name="precisionFarming_helpText_01_part03" text="This EIT Food activity has received funding from the European Institute of Innovation and Technology (EIT), a body of the European Union, under Horizon2020, the EU Framework Programme for Research and Innovation.
+
+EIT Food is Europe’s leading agri-food innovation initiative, with the aim to create a sustainable and future-proof food sector. The initiative is made up of a consortium of key industry players, start-ups, research centres and universities from across Europe. EIT Food aims to collaborate closely with consumers to develop new knowledge and technology-based products and services that will ultimately deliver a healthier and more sustainable lifestyle for all European citizens."/>
+        <text name="precisionFarming_helpTitle_02" text="Toprak Tipleri"/>
+        <text name="precisionFarming_helpText_02_part01" text="Bu modda toprak dört farklı toprak tipine bölünür. Her toprak tipi, ekinlerin yetişmesini ve sonuç olarak elde edilen verim miktarını etkileyen farklı niteliklere sahiptir. Bu nedenle tarladan maksimum verim almak için her toprak tipinin özel olarak ele alınması gerekir."/>
+        <text name="precisionFarming_helpText_02_part02" text="Toprak Tipleri:
+- Killi Kum
+- Kumlu Kil
+- Kil
+- Siltli Kil"/>
+        <text name="precisionFarming_helpTitle_03" text="Topraktan Numune Alma"/>
+        <text name="precisionFarming_helpText_03_part01" text="Tarlayı oluşturan toprak tipini belirlemek için ilk olarak toprağın analiz edilmesi gerekir. Bu, mağazada yer alan ISARIA SCOUT gibi bir toprak numune toplama aracı ile gerçekleştirilebilir. Numune toplama aracını tarlanın farklı noktalarına sür. Tarla, toprak haritasında tamamen koyu kırmızı renkle kaplanana kadar toprak numunesi almaya devam et. Bu renk, numunelerin alındığı noktaları belirtir."/>
+        <text name="precisionFarming_helpText_03_part02" text="Ardından toprak numunelerini analiz edilmesi için laboratuvara gönderebilirsin. Sonuçları birkaç dakika sonra toprak haritasında görebilirsin. Buna ek olarak pH ve Nitrojen haritasını görebilirsin."/>
+        <text name="precisionFarming_helpTitle_04" text="pH Değeri"/>
+        <text name="precisionFarming_helpText_04_part01" text="Toprak haritasının yanında pH değeri haritasını bulabilirsin. Bu harita toprağın asit veya baz değerini belirtir. pH değeri, toprak tipine bağlı olarak her zaman uygun hedef aralığında olmalıdır.
+
+Toprak tipine göre hedef pH değerleri:
+- Killi Kum: 6,0
+- Kumlu Kil: 6,5
+- Kil: 6,75
+- Siltli Kil: 7,0"/>
+        <text name="precisionFarming_helpText_04_part02" text="pH değeri tarlaya kireç uygulanarak artırılabilir. Bu işlem her üç hasatta bir önerilir. Kireç serpme makineleri uygulama oranını varsayılan olarak uygun pH hedef seviyesine erişmek için gereken orana ayarlar ancak manuel olarak kontrol etme seçeneği de bulunur. pH değeri uygun seviyede değilse verim azalır. pH değeri, toprak tipine bağlı olarak her hasadın ardından azalır."/>
+        <text name="precisionFarming_helpTitle_05" text="Nitrojen Değeri"/>
+        <text name="precisionFarming_helpText_05_part01" text="pH değeri haritasının yanında nitrojen haritasını bulabilirsin. Bu, topraktaki mevcut nitrojen seviyesini gösterir. Uygun nitrojen seviyesi ekilen mahsule ve toprak tipine bağlıdır. Tarlada yürüyerek ve &quot;Tarla Bilgisi Ekranına&quot; bakarak tarladaki belirli bir noktanın mevcut ve hedef nitrojen seviyelerini görebilirsin."/>
+        <text name="precisionFarming_helpText_05_part02" text="Nitrojen seviyesi gübre veya doğal gübre uygulanarak artırılabilir. Bulamaç veya doğal gübre nitrojen seviyesini toprak tipine bağlı olarak sabit bir değerde artıracaktır. Bu işlemin tarlayı sonraki ekim için hazırlamadan önce yapılması önerilir. Mahsul ekilmişse mineral ve sıvı gübreler nitrojen seviyesini otomatik olarak mahsul gereksinimlerine göre ayarlar. Bu işlem mahsul ekildikten sonra ilk büyüme aşamalarında yapılmalıdır. Uygulama oranını manuel olarak kontrol etmek her zaman mümkündür."/>
+        <text name="precisionFarming_helpTitle_06" text="Verim Haritası"/>
+        <text name="precisionFarming_helpText_06_part01" text="Verim haritasında, tarlanın belirli noktalarındaki verimi görebilirsin. Bu, daha sonra tarlayı analiz etmek için kullanılabilir."/>
+        <text name="precisionFarming_helpText_06_part02" text=""/>
+        <text name="precisionFarming_helpTitle_07" text="Ekonomik Analiz"/>
+        <text name="precisionFarming_helpText_07_part01" text="Her tarlanın ekonomik analizini edinmek için &quot;Hassas Tarım&quot; sayfasında her tarlanın üzerine tıklayabilirsin. Böylece tarlanın maliyetlerini, kazancını ve toplam bakiyesini sıralayan bir pencere açılır."/>
+        <text name="precisionFarming_helpText_07_part02" text="Tarlanın toplam değerlerini veya Sıfırla düğmesine son basıldığı zamandan bu yana elde edilen istatistikleri görüntüleyebilirsin. Böylece birden çok hasatta elde edilen verileri takip edebilirsin."/>
+        <text name="precisionFarming_helpTitle_08" text="RTK İstasyonu"/>
+        <text name="precisionFarming_helpText_08_part01" text="Mağazada, üzerinde RTK anteni bulunan iki yeni bina var. Bu anten işçiler için daha iyi GPS sinyali sağlar."/>
+        <text name="precisionFarming_helpText_08_part02" text="Yeni binalardan biri haritaya yerleştirilirse yardımcıların hassasiyeti artar ve yardımcılar %11'e kadar daha hızlı çalışır."/>
+        <text name="ui_mapOverviewSoilPA" text="Toprak Tipleri"/>
+        <text name="ui_mapOverviewYieldPA" text="Verim"/>
+        <text name="ui_mapOverviewPHPA" text="pH"/>
+        <text name="ui_mapOverviewNitrogen" text="Nitrojen"/>
+        <text name="typeDesc_soilSampler" text="toprak numunesi alma ünitesi"/>
+        <text name="function_soilSampler" text="Toprak numunesi alma ünitesi ile topraktan numune alarak gelecekteki çalışma adımları hakkında daha ayrıntılı bilgilere sahip olabilirsin."/>
+        <text name="action_takeSoilSample" text="Topraktan numune al"/>
+        <text name="action_sendSoilSamples" text="Toprak numunelerini analize gönder"/>
+        <text name="info_numSamplesTaken" text="Alınan toprak numuneleri: %d"/>
+        <text name="info_samplesSend" text="Toprak numuneleri analiz için bir laboratuvara gönderildi. Sonuçları yakında toprak tipleri haritasında göreceksin."/>
+        <text name="info_samplesAnalysed" text="Analiz edilen toprak numuneleri"/>
+        <text name="pa_fieldInfo_soil" text="Toprak"/>
+        <text name="pa_fieldInfo_phValue" text="pH Değeri"/>
+        <text name="pa_fieldInfo_nValue" text="Nitrojen"/>
+        <text name="pa_fieldInfo_perfect" text="Mükemmel"/>
+        <text name="pa_fieldInfo_good" text="İyi"/>
+        <text name="pa_fieldInfo_ok" text="Orta"/>
+        <text name="pa_fieldInfo_bad" text="Kötü"/>
+        <text name="ui_precisionFarming_soilType_1" text="Killi Kum"/>
+        <text name="ui_precisionFarming_soilType_2" text="Kumlu Kil"/>
+        <text name="ui_precisionFarming_soilType_3" text="Kil"/>
+        <text name="ui_precisionFarming_soilType_4" text="Siltli Kil"/>
+        <text name="pa_sampledArea" text="Alınan Toprak Numunesi"/>
+        <text name="ui_precisionFarming_outdatedData" text="Veriler Güncel Değil"/>
+        <text name="shopItem_rtkStation" text="RTK Baz İstasyonlu Bina"/>
+        <text name="shopItem_garageRtkStation" text="RTK Baz İstasyonlu Baraka"/>
+        <text name="function_rtkStation" text="Bu istasyon sayesinde araçların daha iyi GPS sinyali alır. Böylece YZ işçilerin daha düzgün araç kullanabilir ve işlerini daha çabuk bitirebilir."/>
+        <text name="hudExtension_headline_ph_lime" text="pH Değeri - Kireç Uygulama"/>
+        <text name="hudExtension_headline_n_solidFertilizer" text="Nitrojen - Mineral Gübre Uygulama"/>
+        <text name="hudExtension_headline_n_liquidFertilizer" text="Nitrojen - Sıvı Gübre Uygulama"/>
+        <text name="hudExtension_headline_n_slurryTanker" text="Nitrojen - Bulamaç Uygulama"/>
+        <text name="hudExtension_headline_n_manureSpreader" text="Nitrojen - Doğal Gübre Uygulama"/>
+        <text name="hudExtension_actualValue" text="Mevcut
+%s"/>
+        <text name="hudExtension_newValue" text="Yeni: %s"/>
+        <text name="hudExtension_targetReached" text="Ulaşılan Hedef
+%s"/>
+        <text name="hudExtension_applicationRate" text="Uygulama Oranı:"/>
+        <text name="hudExtension_soilType" text="Toprak: %s"/>
+        <text name="hudExtension_unknown" text="Bilinmiyor"/>
+        <text name="hudExtension_automaticShort" text="otomatik."/>
+        <text name="hudExtension_description_limeAuto" text="&quot;%s&quot; için pH değeri uygun değere yükseltiliyor (%s)"/>
+        <text name="hudExtension_description_limeManual" text="&quot;%s&quot; için uygun pH değeri görüntüleniyor (%s)"/>
+        <text name="hudExtension_description_slurryAuto" text="Toprak verim potansiyeline göre gerekli bulamaç miktarı uygulanıyor (%s)"/>
+        <text name="hudExtension_description_manureAuto" text="Toprak verim potansiyeline göre gerekli doğal gübre miktarı uygulanıyor (%s)"/>
+        <text name="hudExtension_description_fertilizerAutoFruit" text="&quot;%s&quot; üzerindeki &quot;%s&quot; için Nitrojen seviyesi uygun değere yükseltiliyor"/>
+        <text name="hudExtension_description_fertilizerAutoNoFruit" text="Mahsul algılanmadı. En iyi sonucu almak için önce tohum ek. &quot;%s&quot; için varsayılan değeri uygula."/>
+        <text name="hudExtension_description_fertilizerManualFruit" text="&quot;%s&quot; üzerindeki &quot;%s&quot; için uygun değer görüntüleniyor"/>
+        <text name="hudExtension_description_fertilizerManualNoFruit" text="Mahsul algılanmadı. Gübreleme önerisi almak için önce tohum ek. "/>
+        <text name="hudExtension_description_noFertilizerRequired" text="Ekinler için ek gübreye gerek yok."/>
+        <text name="hudExtension_invalidValues" text="Henüz değer algılanmadı"/>
+        <text name="action_toggleSprayAmountAutoModePos" text="Otomatik uygulama oranını etkinleştir"/>
+        <text name="action_toggleSprayAmountAutoModeNeg" text="Otomatik uygulama oranını devre dışı bırak"/>
+        <text name="action_toggleSprayAmountManual" text="Uygulama oranını değiştir"/>
+        <text name="soilStates_replaced" text="Hassas Tarıma Göz At"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_1" text="Serpme Miktarını Artır"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_2" text="Serpme Miktarını Azalt"/>
+        <text name="input_JD_PA_SPRAY_AMOUNT_MODE" text="Otomatik serpme miktarını aç/kapat"/>
+    </texts>
+</l10n>
